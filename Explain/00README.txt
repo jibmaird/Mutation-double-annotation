@@ -1,0 +1,13 @@
+- experiment.pl: run full pipeline
+- Exper6.pl: align errors from experiment pre-adjudicated-train => test1
+- Exper10.pl: align errors from train and test1
+- Exper15.pl: align the results of BioBERT
+- Exper15_sent_embed.pl: align the results of BioBERT with sentence embeddings
+- Exper17.pl: evaluate ranking according to bilstm confidence
+- Exper18.pl: evaluate ranking according to biobert confidence
+- Exper20.pl: evaluate random selection
+
+- top_ranked_sentences_bilstm.pl: rank sentences according to bilstm confidence
+- event_sent_identification.pl: for all sentences identified in training, check whether the label was changed in adjudicated, and calculate metrics
+- eval_sent_identification_benchmark.pl: evaluation considering top-X sentences (by confidence) as positive (candidates for manual analysis)
+- extract sentences and their annotations: Process train sentences (extract sentences and their annotations)

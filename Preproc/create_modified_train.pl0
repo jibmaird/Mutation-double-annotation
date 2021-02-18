@@ -1,0 +1,31 @@
+#!/usr/bin/perl -wd
+
+use strict;
+
+use vars qw ();
+
+#my $log_f = "/home/jibmaird/Projects/biobert-pretrained/biobert_v1.0_pubmed/training-rZBJalxZg/top_matches.txt";
+my $log_f = $ARGV[0];
+my $out_d = $ARGV[1];
+my $single_ann = "/home/jibmaird/Data/Experiments/Mutation/1/Train-sent-ann";
+my $gold_ann = "/home/jibmaird/Data/Experiments/Mutation/2/Train-sent-ann";
+
+if (not -e $out_d) {
+    system("mkdir $out_d");
+
+}
+
+system("cp -r $gold_ann $out_d/Train-sent-ann");
+
+#Move sentences with different annotation
+
+open(I,$log_f)||die;
+while(<I>) {
+    chomp;
+    if (/Similar sentence \d: (.*?) Score/) {
+	#copy file
+	
+	system("cp $single_ann/$1 $out_d/Train-sent-ann");
+    }
+}
+close(I);

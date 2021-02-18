@@ -1,0 +1,1870 @@
+Error in 90:When compared with diploid carcinomas , aneuploid tumors had greater mean fractional allelic loss , defined as the fraction of evaluable nonacrocentric autosomal arms with deletion ( 0 . 25 + / - 0 . 15 , range 0 - 0 . 667 , vs . 0 . 12 + / - 0 . 10 , range 0 - 0 . 345 ; P = 0 . 006 ) .
+Prediction: allelic#B loss#I deletion#B
+Comments:
+
+	Similar sentence 0: 26302849.9.txt Score: 0.263 Matches: [['p', 'P'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['interval', 'range'], ['0', '0'], ['0', '0'], ['allele', 'allelic'], ['0', '0'], ['0', '0'], ['decreased', 'loss'], ['cancer', 'carcinomas']]
+	Sentence: The genotype "A/T" of rs12413624 in PRLHR gene was associated with a decreased risk of colorectal cancer in allele model analysis [odds ratio (OR) = 0.81; 95% confidence interval (CI) = 0.68-0.97; p = 0.018] and log-additive model analysis (OR = 0.81; 95% CI = 0.66-0.98; p = 0.032).
+	Gold labels: rs12413624
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 24568449.8.txt Score: 0.222 Matches: [['P', 'P'], ['0', '0'], ['006', '006'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['allele', 'allelic'], ['decreased', 'loss']]
+	Sentence: In the subgroup analyses, miR-196a2*T variant was associated with a significantly decreased susceptibility of CRC (allele model: OR = 0.839, 95%CI: 0.749-0.940, P = 0.000; dominant model: OR = 0.770, 95%CI: 0.653-0.980, P = 0.002; recessive model: OR = 0.802, 95%CI: 0.685-0.939, P = 0.006; homozygous model: OR = 0.695, 95%CI: 0.570-0.847, P = 0.000).
+	Gold labels: T	variant
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 24568449.7.txt Score: 0.214 Matches: [['P', 'P'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['decreased', 'loss']]
+	Sentence: For miR-196a2 rs11614913, a significantly decreased risk of CRC development was observed under three genetic models (dominant model: OR = 0.848, 95%CI: 0.735-0.979, P = 0.025; recessive model: OR = 0.838, 95%CI: 0.721-0.974, P = 0.021; homozygous model: OR = 0.754, 95%CI: 0.627-0.907, P = 0.003).
+	Gold labels: rs11614913
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16426918.6.txt Score: 0.212 Matches: [['defined', 'defined'], ['as', 'as'], ['compared', 'compared'], ['with', 'with'], ['Loss', 'loss'], ['tumor', 'tumors'], ['0', '0']]
+	Sentence: Loss of MLH-1 or MSH-2 was defined as a tumor with grade 0 or 1, compared with the normal tubules.
+	Gold labels: Loss
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 22545919.8.txt Score: 0.205 Matches: [['0', '0'], ['25', '25'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['0', '0'], ['cancer', 'carcinomas']]
+	Sentence: These associations were restricted to the group of patients with cancer located in the colon (HR = 0.42, 95% CI 0.22-0.82 and HR = 0.46, 95% CI 0.25-0.83).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 166:For example , the activation of Wnt signalling pathways can result from the inactivation of the APC gene in the CIN phenotype or from an activating mutation in the β - catenin gene in MSI tumors .
+Prediction: inactivation#B CIN#O mutation#B
+Comments:
+
+	Similar sentence 0: 9731891.10.txt Score: 0.333 Matches: [['In', 'in'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['gene', 'gene'], ['mutations', 'mutation'], ['tumors', 'tumors'], ['cases', 'example']]
+	Sentence: In the 125 cases studied, there were 53 tumors with mutations of the p53 gene.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 8187091.10.txt Score: 0.324 Matches: [['inactivation', 'inactivation'], ['of', 'of'], ['the', 'the'], ['APC', 'APC'], ['gene', 'gene'], ['in', 'in'], ['the', 'the'], ['gene', 'gene'], ['the', 'the'], ['results', 'result'], ['mutations', 'mutation']]
+	Sentence: These results suggest that inactivation of the APC gene by two mutations is involved in the development of moderate adenoma, and loss of heterozygosity of the APC gene is associated with further development to carcinoma.
+	Gold labels: loss of heterozygosity	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16426918.11.txt Score: 0.305 Matches: [['in', 'in'], ['the', 'the'], ['from', 'from'], ['the', 'the'], ['results', 'result'], ['genes', 'gene'], ['transformation', 'mutation'], ['of', 'of'], ['in', 'in']]
+	Sentence: Our results suggest that loss of mismatch repair genes is involved in the malignant transformation in some renal carcinomas, particularly those derived from the proximal tubules.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 10205208.2.txt Score: 0.286 Matches: [['of', 'of'], ['the', 'the'], ['APC', 'APC'], ['gene', 'gene'], ['Mutations', 'mutation'], ['cause', 'result'], ['cancer', 'tumors']]
+	Sentence: Mutations of the APC gene cause familial adenomatous polyposis (FAP), a hereditary colorectal cancer predisposition syndrome.
+	Gold labels: Mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16396368.3.txt Score: 0.286 Matches: [['of', 'of'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['MSI', 'MSI'], ['cancer', 'tumors'], ['phenotype', 'phenotype']]
+	Sentence: The role of the pathologist in the detection of colorectal cancer with MSI phenotype is important.
+	Gold labels: MSI
+	Manual labels:
+	Comments:
+
+Error in 88:The prognostic value of these alterations was also evaluated because aneuploidy has been associated with poor prognosis .
+Prediction: alterations#B
+Comments:
+
+	Similar sentence 0: 20725929.2.txt Score: 0.276 Matches: [['been', 'been'], ['associated', 'associated'], ['with', 'with'], ['have', 'has']]
+	Sentence: Biallelic pathogenic MUTYH variants have been associated with colorectal polyposis and cancer.
+	Gold labels: variants
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 24435063.12.txt Score: 0.267 Matches: [['associated', 'associated'], ['with', 'with'], ['interest', 'value'], ['the', 'The'], ['predictive', 'prognostic'], ['was', 'been']]
+	Sentence: In a stratified analysis, cancer-related fear was associated with the interest in predictive genomic testing in the intervention group (p = 0.017), but not the control group.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23603433.1.txt Score: 0.267 Matches: [['been', 'been'], ['associated', 'associated'], ['with', 'with'], ['have', 'has']]
+	Sentence: Specific patterns of genomic aberrations have been associated with different types of malignancies.
+	Gold labels: genomic aberrations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 17234021.3.txt Score: 0.258 Matches: [['estimated', 'evaluated'], ['been', 'was'], ['far', 'also'], ['for', 'because']]
+	Sentence: Cost-effectiveness has so far only been estimated for the group at high risk.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 22810479.5.txt Score: 0.250 Matches: [['the', 'The'], ['prognostic', 'prognostic'], ['significance', 'value'], ['review', 'evaluated'], ['of', 'of']]
+	Sentence: : To derive a more precise estimation of the prognostic significance of K-ras gene mutations, a systematic review and meta-analysis were performed.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+Error in 186:Overall , our results provide evidence that DNA repeats contained in human miRNA genes are relatively rare and preserved from mutations due to MSI in MMR - deficient cancer cells .
+Prediction: mutations#B
+Comments:
+
+	Similar sentence 0: 15987719.0.txt Score: 0.348 Matches: [['gene', 'genes'], ['human', 'human'], ['Cells', 'cells'], ['defective', 'deficient'], ['mutations', 'mutations'], ['DNA', 'DNA'], ['in', 'in'], ['are', 'are']]
+	Sentence: Cells with pathogenic biallelic mutations in the human MUTYH gene are defective in DNA damage binding and repair.
+	Gold labels: biallelic mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16426918.11.txt Score: 0.333 Matches: [['Our', 'our'], ['results', 'results'], ['involved', 'contained'], ['that', 'that'], ['genes', 'genes'], ['transformation', 'mutations'], ['carcinomas', 'cancer'], ['in', 'in'], ['is', 'are']]
+	Sentence: Our results suggest that loss of mismatch repair genes is involved in the malignant transformation in some renal carcinomas, particularly those derived from the proximal tubules.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 15930278.10.txt Score: 0.295 Matches: [['Our', 'our'], ['results', 'results'], ['MSI', 'MSI'], ['indicate', 'provide'], ['mutation', 'mutations'], ['genes', 'genes'], ['repeat', 'repeats'], ['tumors', 'cancer'], ['in', 'in']]
+	Sentence: Our results indicate that high mutation frequencies, similar or higher than those observed in proposed and approved target genes, can be detected in repeat tracts of MSI tumors without any apparent selection pressure.
+	Gold labels: MSI	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 19276868.3.txt Score: 0.292 Matches: [['cells', 'cells'], ['cancer', 'cancer'], ['found', 'contained'], ['gene', 'genes'], ['mutations', 'mutations'], ['in', 'in'], ['are', 'are']]
+	Sentence: Like other tumor suppressor genes, the loss-of-function mutations found in the DPC4 gene are specific to cancer cells.
+	Gold labels: loss-of-function mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10439970.4.txt Score: 0.286 Matches: [['mutation', 'mutations'], ['result', 'results'], ['causing', 'due'], ['shown', 'evidence'], ['gene', 'genes'], ['found', 'contained'], ['in', 'in'], ['in', 'in'], ['was', 'are']]
+	Sentence: However, in case 2 the FAP-causing mutation in the APC gene was found in the donor splice site of exon 4 and was shown to result in a frameshift and a premature termination codon.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+Error in 44:Seven of the 72 tumors had inactivating mutations in the coding repeats of the target genes .
+Prediction: inactivating#B mutations#B
+Comments:
+
+	Similar sentence 0: 9731891.10.txt Score: 0.452 Matches: [['In', 'in'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['gene', 'genes'], ['tumors', 'tumors'], ['mutations', 'mutations']]
+	Sentence: In the 125 cases studied, there were 53 tumors with mutations of the p53 gene.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15930278.8.txt Score: 0.424 Matches: [['of', 'of'], ['the', 'the'], ['cancers', 'tumors'], ['repeats', 'repeats'], ['mutated', 'mutations'], ['70', 'Seven'], ['in', 'in']]
+	Sentence: One of 10 examined repeats was mutated in 70% (102 of 145) of the colorectal cancers evaluated.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22810479.2.txt Score: 0.387 Matches: [['of', 'of'], ['the', 'the'], ['gene', 'genes'], ['The', 'the'], ['mutated', 'mutations'], ['cancer', 'tumors']]
+	Sentence: : The K-ras gene is one of the commonly mutated oncogenes associated with colorectal cancer.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18184403.6.txt Score: 0.378 Matches: [['of', 'of'], ['the', 'the'], ['In', 'in'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['cancers', 'tumors']]
+	Sentence: In the cancers, expression of beclin-1 was detected in 95% of the colorectal carcinomas and 83% of the gastric carcinomas.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 17938238.0.txt Score: 0.364 Matches: [['genetics', 'genes'], ['The', 'the'], ['cancer', 'tumors'], ['of', 'of']]
+	Sentence: The genetics of hereditary colon cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 55:In addition , a significant interaction was observed between the TS promoter polymorphism and the 677C > T polymorphism of methylenetetrahydrofolate reductase ( MTHFR ; P for interaction = 0 . 007 ) .
+Prediction: polymorphism#O 677C#B >#I T#I
+Comments:
+
+	Similar sentence 0: 16030091.5.txt Score: 0.400 Matches: [['a', 'a'], ['significant', 'significant'], ['interaction', 'interaction'], ['between', 'between'], ['the', 'the'], ['polymorphism', 'polymorphism'], ['and', 'and'], ['Pinteraction', 'P'], ['0', '0']]
+	Sentence: There was a significant interaction between the IL-10-592 C/A polymorphism and aspirin use (Pinteraction = 0.03).
+	Gold labels: polymorphism
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 17096342.6.txt Score: 0.286 Matches: [['was', 'was'], ['observed', 'observed'], ['between', 'between'], ['A', 'a'], ['significant', 'significant'], ['p', 'P'], ['0', '0']]
+	Sentence: A significant difference was observed between CRC patients and unaffected MMR gene mutation carriers over the age of 45 years (p = 0.01).
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 25840688.7.txt Score: 0.269 Matches: [['between', 'between'], ['the', 'the'], ['and', 'and'], ['the', 'the'], ['found', 'observed'], ['was', 'was'], ['p', 'P'], ['0', '0'], ['significant', 'significant']]
+	Sentence: No significant difference was found between the LNs and the primary tumors in bcl-2 positivity (p = 0.538) and DNA aneuploidy (p = 0.35), with a tendency towards negative bcl-2 and less aneuploidy in LN metastases than primary tumors.
+	Gold labels: aneuploidy
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15946795.4.txt Score: 0.238 Matches: [['between', 'between'], ['the', 'the'], ['found', 'observed'], ['were', 'was'], ['polymorphism', 'polymorphism']]
+	Sentence: No associations were found between the polymorphism GPX Pro198Leu and risk of colorectal adenomas or carcinomas.
+	Gold labels: Pro198Leu	polymorphism
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 20459617.10.txt Score: 0.233 Matches: [['and', 'and'], ['the', 'the'], ['between', 'between'], ['the', 'the'], ['significantly', 'significant']]
+	Sentence: However, both the number of chromosomal aberrations and the number of breakpoints differed significantly between the groups.
+	Gold labels: chromosomal aberrations
+	Manual labels:
+	Comments:
+
+Error in 161:The presence of MMR deficiency leads to the accumulation of mutations in genes controlling cell cycle and apoptosis ( TGFBRII , BAX or CASPASE5 ) .
+Prediction: deficiency#B
+Comments:
+
+	Similar sentence 0: 11521793.1.txt Score: 0.419 Matches: [['accumulation', 'accumulation'], ['of', 'of'], ['mutations', 'mutations'], ['in', 'in'], ['genes', 'genes'], ['control', 'controlling'], ['cell', 'cell'], ['caused', 'leads'], ['the', 'the']]
+	Sentence: Cancer is a genetic disease caused by the progressive accumulation of mutations in critical genes that control cell growth and differentiation.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 19276868.11.txt Score: 0.343 Matches: [['cell', 'cell'], ['cycle', 'cycle'], ['and', 'and'], ['apoptosis', 'apoptosis'], ['induces', 'leads'], ['deficient', 'deficiency']]
+	Sentence: UA62784 preferentially induces cell cycle arrest and apoptosis in cells with deficient DPC4.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 15930278.1.txt Score: 0.333 Matches: [['mutations', 'mutations'], ['in', 'in'], ['MMR', 'MMR'], ['deficient', 'deficiency'], ['accumulate', 'accumulation'], ['cells', 'cell']]
+	Sentence: DNA mismatch repair (MMR)-deficient cells typically accumulate mutations in short repetitive DNA tracts.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 21261604.4.txt Score: 0.286 Matches: [['of', 'of'], ['MMR', 'MMR'], ['lead', 'leads'], ['defects', 'deficiency'], ['to', 'to']]
+	Sentence: Identification of MMR protein defects can lead to early diagnosis of this condition.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9476377.5.txt Score: 0.279 Matches: [['the', 'The'], ['presence', 'presence'], ['of', 'of'], ['mutation', 'mutations'], ['genetic', 'genes'], ['carrying', 'leads']]
+	Sentence: Presymptomatic genetic testing for the presence of an allele carrying the FAP mutation is now possible using a variety of techniques.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 182:Following a maximum likelihood statistical method , microRNA genes were separated into two groups that differed significantly in their mutation frequencies and in their tendency to represent mutations that may or may not be under selective pressures during MSI tumoral progression .
+Prediction: mutation#B mutations#B
+Comments:
+
+	Similar sentence 0: 15930278.10.txt Score: 0.274 Matches: [['mutation', 'mutation'], ['frequencies', 'frequencies'], ['MSI', 'MSI'], ['selection', 'selective'], ['pressure', 'pressures'], ['genes', 'genes'], ['tumors', 'tumoral'], ['high', 'maximum'], ['observed', 'Following'], ['in', 'in']]
+	Sentence: Our results indicate that high mutation frequencies, similar or higher than those observed in proposed and approved target genes, can be detected in repeat tracts of MSI tumors without any apparent selection pressure.
+	Gold labels: MSI	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 14966376.8.txt Score: 0.219 Matches: [['mutation', 'mutations'], ['was', 'be'], ['second', 'two'], ['change', 'mutation'], ['at', 'under'], ['at', 'during'], ['with', 'under']]
+	Sentence: The second novel mutation was at codon 1971, with a C to G transversion, resulting in an amino acid change from serine to cysteine.
+	Gold labels: C to G transversion	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 17949294.7.txt Score: 0.216 Matches: [['risk', 'likelihood'], ['an', 'a'], ['mutation', 'mutation'], ['high', 'maximum'], ['tumors', 'tumoral'], ['risk', 'may'], ['increased', 'progression'], ['were', 'be']]
+	Sentence: Heterozygous and homozygous MYH mutation carriers were both at high risk for synchronous cancers (24% in colorectum and 16% in the upper gastrointestinal tract), but did not demonstrate an increased risk for extradigestive tumors.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 22899730.15.txt Score: 0.213 Matches: [['mutations', 'mutation'], ['prevalence', 'frequencies'], ['association', 'groups'], ['differ', 'differed'], ['tumor', 'tumoral'], ['may', 'may'], ['show', 'represent'], ['that', 'that']]
+	Sentence: Our results show that the prevalence of BRAF mutations in CRC differs by patient and tumor characteristics and suggest that the association between BRAF status and CRC survival may differ by some of these factors.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 21479914.6.txt Score: 0.212 Matches: [['likelihood', 'likelihood'], ['an', 'a'], ['MSI', 'MSI'], ['significantly', 'significantly'], ['tumor', 'tumoral'], ['increased', 'progression'], ['2', 'two']]
+	Sentence: CT/TT genotypes of rs1961177 were significantly associated with an increased likelihood of a MSI+ colon tumor (OR 1.77 95% CI 1.26-2.37).
+	Gold labels: rs1961177
+	Manual labels:
+	Comments:
+
+Error in 40:We analyzed the protein expression of hMLH1 , hMSH2 , and BAX by immunohistochemistry , determined the MSI phenotype , and looked for mutations in the coding repeats located in the transforming growth factor beta - RII , BAX , hMSH3 , and hMSH6 genes .
+Prediction: mutations#B
+Comments:
+
+	Similar sentence 0: 9691992.2.txt Score: 0.313 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['beta', 'beta'], ['mutations', 'mutations'], ['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['RII', 'RII'], ['search', 'looked'], ['repeat', 'repeats'], ['gene', 'genes']]
+	Sentence: These samples were also screened to search mutations in the repeat sequences in the gene for the type II receptor of transforming growth factor-beta (TGF-beta RII) using polymerase chain reaction (PCR), electrophoresis with urea gel, and PCR-single strand conformation polymorphism (PCR-SSCP) method.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9731891.17.txt Score: 0.282 Matches: [['mutations', 'mutations'], ['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['hMLH1', 'hMLH1'], ['hMSH2', 'hMSH2'], ['growth', 'growth'], ['genes', 'genes'], ['and', 'and']]
+	Sentence: Microsatellite instability is prone to occur in sporadic right colon carcinoma during tumor growth and is not associated significantly with mutations in the hMLH1 and hMSH2 mismatch repair genes or in the p53 gene.
+	Gold labels: Microsatellite instability	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 9691992.0.txt Score: 0.258 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['beta', 'beta'], ['mutations', 'mutations'], ['in', 'in'], ['the', 'the'], ['gene', 'genes']]
+	Sentence: A novel missense mutation and frameshift mutations in the type II receptor of transforming growth factor-beta gene in sporadic colon cancer with microsatellite instability.
+	Gold labels: frameshift mutations	microsatellite instability	missense mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 7557155.4.txt Score: 0.254 Matches: [['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['reviews', 'analyzed'], ['genes', 'genes'], ['developments', 'growth'], ['the', 'the']]
+	Sentence: This article reviews the recent developments and advances in the biology of the human DNA mismatch repair genes and their involvement in the pathogenesis of cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10439970.4.txt Score: 0.250 Matches: [['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['mutation', 'mutations'], ['gene', 'genes'], ['causing', 'factor'], ['found', 'determined'], ['and', 'and']]
+	Sentence: However, in case 2 the FAP-causing mutation in the APC gene was found in the donor splice site of exon 4 and was shown to result in a frameshift and a premature termination codon.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+Error in 168:The RAS - MAP kinase pathway is activated by KRAS mutations in CIN tumors or by BRAF mutations in MSI tumors .
+Prediction: CIN#O
+Comments:
+
+	Similar sentence 0: 14734469.13.txt Score: 0.432 Matches: [['BRAF', 'BRAF'], ['mutations', 'mutations'], ['K', 'KRAS'], ['ras', 'RAS'], ['mutations', 'mutations'], ['cancers', 'tumors'], ['in', 'in'], ['or', 'or']]
+	Sentence: In addition, BRAF mutations were not found in any cancers or cell lines with K-ras mutations.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15702478.3.txt Score: 0.381 Matches: [['BRAF', 'BRAF'], ['mutations', 'mutations'], ['K', 'KRAS'], ['cancer', 'tumors'], ['activation', 'activated'], ['ras', 'RAS'], ['pathways', 'pathway'], ['transformation', 'mutations']]
+	Sentence: Moreover, an inverse relation between K-ras gene activation and BRAF mutations has been demonstrated, suggesting alternative pathways for colorectal cancer transformation.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 14734469.3.txt Score: 0.350 Matches: [['BRAF', 'BRAF'], ['mutations', 'mutations'], ['in', 'in'], ['cancer', 'tumors'], ['MSI', 'MSI'], ['cancer', 'tumors'], ['in', 'in']]
+	Sentence: BRAF mutations in sporadic colorectal cancer with microsatellite instability (MSI) are more frequently detected than those in microsatellite stable cancer.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 14734469.0.txt Score: 0.308 Matches: [['BRAF', 'BRAF'], ['mutation', 'mutations'], ['cancer', 'tumors'], ['cancer', 'tumors'], ['in', 'in'], ['in', 'in']]
+	Sentence: BRAF mutation is frequently present in sporadic colorectal cancer with methylated hMLH1, but not in hereditary nonpolyposis colorectal cancer.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 15702478.0.txt Score: 0.303 Matches: [['K', 'KRAS'], ['Mutation', 'mutations'], ['ras', 'RAS'], ['BRAF', 'BRAF'], ['cancer', 'tumors']]
+	Sentence: Mutation analysis of p53, K-ras, and BRAF genes in colorectal cancer progression.
+	Gold labels: Mutation
+	Manual labels:
+	Comments:
+
+Error in 184:The second group contained three genes , i . e . , hsa - mir - 1273c , hsa - mir - 1303 and hsa - mir - 567 , with frequent ( ≥ 80 % ) and sometimes bi - allelic mutations in MSI tumors .
+Prediction: mutations#B
+Comments:
+
+	Similar sentence 0: 21128281.5.txt Score: 0.327 Matches: [['and', 'and'], ['hsa', 'hsa'], ['mir', 'mir'], ['hsa', 'hsa'], ['mir', 'mir'], ['encompassing', 'contained'], ['genes', 'genes'], ['two', 'second']]
+	Sentence: In addition, two genomic deletions were encountered encompassing two microRNA genes, hsa-mir-491/KIAA1797 and hsa-mir-646/AK309218.
+	Gold labels: deletions
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 24568449.0.txt Score: 0.250 Matches: [['miR', 'mir'], ['miR', 'mir'], ['miR', 'mir'], ['Associations', 'group'], ['cancer', 'tumors'], ['and', 'and']]
+	Sentence: Associations of single nucleotide polymorphisms in miR-146a, miR-196a, miR-149 and miR-499 with colorectal cancer susceptibility.
+	Gold labels: single nucleotide polymorphisms
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 14734469.0.txt Score: 0.250 Matches: [['mutation', 'mutations'], ['frequently', 'frequent'], ['present', 'contained'], ['cancer', 'tumors'], ['in', 'in'], ['with', 'with']]
+	Sentence: BRAF mutation is frequently present in sporadic colorectal cancer with methylated hMLH1, but not in hereditary nonpolyposis colorectal cancer.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 21261604.0.txt Score: 0.244 Matches: [['bi', 'bi'], ['allelic', 'allelic'], ['mutations', 'mutations'], ['gene', 'genes'], ['tumours', 'tumors']]
+	Sentence: Childhood brain tumours due to germline bi-allelic mismatch repair gene mutations.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 21261604.1.txt Score: 0.240 Matches: [['bi', 'bi'], ['allelic', 'allelic'], ['mutations', 'mutations'], ['in', 'in'], ['gene', 'genes'], ['tumours', 'tumors']]
+	Sentence: Childhood brain tumours may be due to germline bi-allelic mismatch repair (MMR) gene mutations in MLH1, MSH2, MSH6 or PMS2.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+Error in 14:It is widely accepted that many cancers arise as a result of an acquired genomic instability and the subsequent evolution of tumor cells with variable patterns of selected and background aberrations .
+Prediction: genomic#O instability#O
+Comments:
+
+	Similar sentence 0: 22895193.1.txt Score: 0.304 Matches: [['development', 'evolution'], ['the', 'the'], ['cancer', 'cancers'], ['genomes', 'genomic'], ['Identifying', 'selected'], ['and', 'and'], ['of', 'of']]
+	Sentence: Identifying and understanding changes in cancer genomes is essential for the development of targeted therapeutics.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 23497483.2.txt Score: 0.281 Matches: [['accepted', 'accepted'], ['are', 'is'], ['genome', 'genomic'], ['cells', 'cells'], ['cancer', 'cancers'], ['development', 'evolution'], ['variants', 'variable'], ['occur', 'arise'], ['of', 'of']]
+	Sentence: Somatic variants, which occur in the genome of all cells, are well accepted to play a critical role in cancer development, as their accumulation in genes could affect cell proliferations and cell cycle.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22388025.2.txt Score: 0.280 Matches: [['It', 'It'], ['is', 'is'], ['cancers', 'cancers'], ['arise', 'arise'], ['many', 'many'], ['cancers', 'tumor'], ['that', 'that']]
+	Sentence: It is believed that up to 30% of colon cancers and many post-colonoscopy cancers arise from serrated neoplasms.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 19276868.10.txt Score: 0.255 Matches: [['cells', 'cells'], ['with', 'with'], ['cancer', 'tumor'], ['selectively', 'selected'], ['lead', 'result'], ['A', 'a']]
+	Sentence: A lead molecule, UA62784, was identified to be selectively cytotoxic against cancer cells with deficient DPC4.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9815896.4.txt Score: 0.255 Matches: [['as', 'as'], ['a', 'a'], ['result', 'result'], ['of', 'of'], ['occurred', 'arise'], ['that', 'that'], ['cancer', 'cancers']]
+	Sentence: The greater incidence of antibody in cancer patients provides presumptive evidence that immunization to the ras proteins occurred as a result of the malignancy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 163:The main alteration associated with this group of tumors is the hypermethylation of the promoter region of numerous genes , leading to their inactivation .
+Prediction: alteration#B inactivation#B
+Comments:
+
+	Similar sentence 0: 22810479.2.txt Score: 0.316 Matches: [['of', 'of'], ['the', 'the'], ['associated', 'associated'], ['with', 'with'], ['gene', 'genes'], ['cancer', 'tumors']]
+	Sentence: : The K-ras gene is one of the commonly mutated oncogenes associated with colorectal cancer.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 10962562.9.txt Score: 0.316 Matches: [['of', 'of'], ['the', 'the'], ['region', 'region'], ['promoter', 'promoter'], ['Disruption', 'alteration'], ['resulted', 'leading']]
+	Sentence: Disruption of this region resulted in the abrogation of BRCA1 activation of the GADD45 promoter.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22396040.0.txt Score: 0.300 Matches: [['of', 'of'], ['the', 'the'], ['associations', 'associated'], ['tumor', 'tumors'], ['genetic', 'genes'], ['of', 'of']]
+	Sentence: Meta-analyses of the associations between four common TGF-β1 genetic polymorphisms and risk of colorectal tumor.
+	Gold labels: polymorphisms
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 12500293.3.txt Score: 0.286 Matches: [['of', 'of'], ['the', 'the'], ['numerical', 'numerous'], ['genes', 'genes'], ['abnormalities', 'alteration'], ['carry', 'leading'], ['involved', 'associated'], ['cancer', 'tumors'], ['of', 'of']]
+	Sentence: However, thus far few studies have analyzed the impact of numerical abnormalities of chromosomes 17 and 18, which carry the p53 and DCC plus SHAD4/DPC4 genes involved in colorectal cancer, on the clinical and biological behaviors of the disease.
+	Gold labels: numerical abnormalities
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9609758.3.txt Score: 0.279 Matches: [['of', 'of'], ['the', 'the'], ['regions', 'region'], ['involving', 'associated'], ['cancers', 'tumors'], ['of', 'of']]
+	Sentence: Mutations involving microsatellite-like regions of the type II TGF-beta receptor have been described in subgroups of colorectal cancers.
+	Gold labels: Mutations
+	Manual labels:
+	Comments:
+
+Error in 92:Aneuploid tumors also had more frequent allelic loss on chromosome 17p ( 87 % vs . 55 % ; P = 0 . 017 ) , but less frequent ras gene mutation ( 44 % vs . 82 % ; P = 0 . 025 ) .
+Prediction: loss#B
+Comments:
+
+	Similar sentence 0: 20196079.13.txt Score: 0.311 Matches: [['genes', 'gene'], ['p', 'P'], ['changes', 'mutation'], ['0', '0'], ['frequently', 'frequent'], ['chromosome', 'chromosome'], ['recurrent', 'frequent']]
+	Sentence: However, the recurrent chromosome changes observed more frequently contained Wnt pathway genes (p value 0.012).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12000733.7.txt Score: 0.239 Matches: [['P', 'P'], ['0', '0'], ['P', 'P'], ['0', '0'], ['ras', 'ras'], ['mutation', 'mutation'], ['loss', 'loss'], ['chromosome', 'chromosome']]
+	Sentence: Strong associations of ACF methylation with K-ras mutation (P = 0.007) and with loss of chromosome 1p (P = 0.04) were observed, but methylation was the only molecular abnormality identified in 16% (10 of 61) of ACF.
+	Gold labels: loss	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22810479.13.txt Score: 0.233 Matches: [['p', 'P'], ['0', '0'], ['ras', 'ras'], ['gene', 'gene'], ['mutations', 'mutation'], ['0', '0'], ['cancer', 'tumors']]
+	Sentence: : The pooled HR for the association between K-ras gene mutations and overall survival in patients with colorectal cancer was 1.04 (95% CI: 0.99-1.10, p = 0.11).
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8431846.5.txt Score: 0.233 Matches: [['on', 'on'], ['chromosome', 'chromosome'], ['loss', 'loss'], ['alleles', 'allelic'], ['tumor', 'tumors'], ['Furthermore', 'also'], ['small', 'less']]
+	Sentence: Furthermore, loss of the alleles of loci on chromosome 3 has been reported in renal cell carcinoma, small cell lung carcinoma, and mixed salivary gland tumor in hereditary and sporadic cases.
+	Gold labels: loss
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 8187091.8.txt Score: 0.227 Matches: [['tumors', 'tumors'], ['had', 'had'], ['mutation', 'mutation'], ['loss', 'loss'], ['Additionally', 'also']]
+	Sentence: Additionally, we found 10 FAP tumors that had both somatic mutation and loss of heterozygosity.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+Error in 172:We analyzed the mutational profiles of 12 known target genes containing polydeoxyadenosine repeats in their coding sequences in 39 MSI - H colorectal carcinomas and 40 MSI - H gastric carcinomas by using polymerase chain reaction and sequencing , and compared the results with the clinicopathologic characteristics .
+Prediction: -#O H#O -#O H#O
+Comments:
+
+	Similar sentence 0: 14734469.6.txt Score: 0.366 Matches: [['We', 'We'], ['analyzed', 'analyzed'], ['sequencing', 'sequencing'], ['and', 'and'], ['cancers', 'carcinomas'], ['colorectal', 'colorectal'], ['mutations', 'mutational'], ['sequence', 'sequences'], ['cancer', 'carcinomas'], ['lines', 'chain'], ['specific', 'target'], ['PCR', 'polymerase'], ['and', 'and']]
+	Sentence: We analyzed BRAF mutations in 26 colorectal cancer cell lines, 80 sporadic colorectal cancers, and 20 tumors from HNPCC patients by DNA sequencing and sequence-specific PCR.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 20646601.2.txt Score: 0.289 Matches: [['characteristics', 'characteristics'], ['clinicopathological', 'clinicopathologic'], ['cancer', 'carcinomas'], ['colorectal', 'colorectal'], ['mutation', 'mutational'], ['gene', 'genes'], ['analyze', 'analyzed'], ['targeted', 'target'], ['cancer', 'carcinomas'], ['in', 'in'], ['the', 'the'], ['and', 'and']]
+	Sentence: To determine the mutation status of K-ras gene in colorectal cancer and analyze the associations between its mutation status and clinicopathological characteristics in colorectal cancer so as to select the patients likely to benefit from a targeted therapy.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23497483.11.txt Score: 0.270 Matches: [['genes', 'genes'], ['colorectal', 'colorectal'], ['list', 'containing'], ['cancer', 'carcinomas'], ['mutation', 'mutational'], ['findings', 'results'], ['Seq', 'sequences'], ['cancer', 'carcinomas'], ['studies', 'analyzed'], ['in', 'in']]
+	Sentence: Our findings provide evidence of the utility of RNA-Seq in mutation screening in cancer studies, and suggest a list of candidate genes for future colorectal cancer diagnosis and treatment.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9439149.3.txt Score: 0.269 Matches: [['carcinoma', 'carcinomas'], ['colorectal', 'colorectal'], ['carcinomas', 'carcinomas'], ['mutation', 'mutational'], ['sequences', 'sequences'], ['found', 'containing'], ['and', 'and'], ['in', 'in'], ['in', 'in']]
+	Sentence: High mutation rates in microsatellite sequences have been found in tumors from patients with hereditary non-polyposis colorectal carcinoma and some sporadic carcinomas.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 7669575.4.txt Score: 0.261 Matches: [['cancer', 'carcinomas'], ['colorectal', 'colorectal'], ['cancers', 'carcinomas'], ['repeats', 'repeats'], ['pattern', 'profiles'], ['reported', 'compared'], ['and', 'and'], ['of', 'of'], ['in', 'in']]
+	Sentence: This pattern of instability is distinct from that reported in colorectal cancer and other cancers that have a high level of alterations in dinucleotide repeats.
+	Gold labels: instability
+	Manual labels:
+	Comments:
+
+Error in 145:Here , we report that the stable partial downregulation of the spindle checkpoint gene MAD1 , which is observed in human cancer , leads to a functional inactivation of the spindle checkpoint resulting in gross aneuploidy .
+Prediction: inactivation#B aneuploidy#B
+Comments:
+
+	Similar sentence 0: 10822375.4.txt Score: 0.302 Matches: [['Here', 'Here'], ['we', 'we'], ['report', 'report'], ['that', 'that'], ['cancer', 'cancer'], ['gene', 'gene'], ['inactivated', 'inactivation'], ['in', 'in']]
+	Sentence: Here we report that in Vaco481 colon cancer the hPMS2 gene is inactivated by somatic mutations of both hPMS2 alleles.
+	Gold labels: inactivated	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18184403.6.txt Score: 0.296 Matches: [['of', 'of'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['detected', 'observed'], ['was', 'is'], ['cancers', 'cancer'], ['in', 'in']]
+	Sentence: In the cancers, expression of beclin-1 was detected in 95% of the colorectal carcinomas and 83% of the gastric carcinomas.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 8431846.13.txt Score: 0.277 Matches: [['that', 'that'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['results', 'leads'], ['reported', 'report'], ['solid', 'stable'], ['results', 'resulting'], ['carcinoma', 'cancer']]
+	Sentence: These results suggest that the development of hyperplastic polyps and carcinoma of the rectum results from the allelic loss in chromosome 3p, as has been reported for solid tumors at other sites.
+	Gold labels: loss
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 10962562.10.txt Score: 0.261 Matches: [['that', 'that'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['results', 'resulting'], ['genes', 'gene'], ['induces', 'leads']]
+	Sentence: Taken together, these results demonstrate that the mechanism by which BRCA1 induces GADD45 is mainly through the transactivation of the GADD45 promoter, further demonstrating the evidence that GADD45 acts as one of the BRCA1-regulated genes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18256278.2.txt Score: 0.246 Matches: [['Here', 'Here'], ['we', 'we'], ['report', 'report'], ['cancer', 'cancer'], ['found', 'observed'], ['causing', 'leads'], ['in', 'in']]
+	Sentence: Here, we report a mutant allele of MRE11 found in a colon cancer cell line that sensitizes cells to agents causing replication fork stress.
+	Gold labels: mutant
+	Manual labels:
+	Comments:
+
+Error in 177:MiRNA genes constitute new targets for microsatellite instability in colorectal cancer .
+Prediction: microsatellite#B instability#I
+Comments:
+
+	Similar sentence 0: 16924054.9.txt Score: 0.455 Matches: [['microsatellite', 'microsatellite'], ['instability', 'instability'], ['in', 'in'], ['Genetic', 'genes'], ['tumors', 'cancer']]
+	Sentence: Genetic testing revealed microsatellite instability in the colon and cutaneous tumors.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12500293.2.txt Score: 0.385 Matches: [['in', 'in'], ['colorectal', 'colorectal'], ['tumors', 'cancer'], ['recent', 'new'], ['genetic', 'genes']]
+	Sentence: In recent years important information has accumulated on the genetic alterations present in colorectal tumors.
+	Gold labels: genetic alterations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 7735559.0.txt Score: 0.364 Matches: [['microsatellites', 'microsatellite'], ['Genetic', 'genes'], ['carcinoma', 'cancer'], ['in', 'in']]
+	Sentence: Genetic alterations of microsatellites on chromosome 18 in human breast carcinoma.
+	Gold labels: alterations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 17350669.0.txt Score: 0.345 Matches: [['in', 'in'], ['colorectal', 'colorectal'], ['cancer', 'cancer'], ['microsatellite', 'microsatellite'], ['instability', 'instability']]
+	Sentence: Fatty acid synthase overexpression in colorectal cancer is associated with microsatellite instability, independent of CpG island methylator phenotype.
+	Gold labels: microsatellite instability
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 22895193.9.txt Score: 0.343 Matches: [['cancer', 'cancer'], ['new', 'new'], ['provide', 'constitute'], ['gene', 'genes'], ['for', 'for'], ['in', 'in']]
+	Sentence: The R-spondin gene fusions and several other gene mutations identified in this study provide new potential opportunities for therapeutic intervention in colon cancer.
+	Gold labels: gene fusions	mutations
+	Manual labels:
+	Comments:
+
+Error in 10:Similar fingerprint alterations were also observed among single cell clones derived from single cell clones from mutator tumor cell lines , which appeared to exhibit higher clonal variation in gene expression compared with MMP - cells .
+Prediction: alterations#B
+Comments:
+
+	Similar sentence 0: 23497483.2.txt Score: 0.388 Matches: [['occur', 'appeared'], ['which', 'which'], ['play', 'exhibit'], ['to', 'to'], ['cells', 'cell'], ['genes', 'gene'], ['cell', 'cell'], ['cell', 'cell'], ['variants', 'variation'], ['well', 'also'], ['cancer', 'tumor'], ['are', 'were'], ['in', 'in']]
+	Sentence: Somatic variants, which occur in the genome of all cells, are well accepted to play a critical role in cancer development, as their accumulation in genes could affect cell proliferations and cell cycle.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18097606.8.txt Score: 0.310 Matches: [['cell', 'cell'], ['lines', 'lines'], ['observed', 'observed'], ['was', 'were'], ['displayed', 'appeared'], ['increased', 'higher'], ['cells', 'cell'], ['exposure', 'exhibit'], ['to', 'to']]
+	Sentence: While NF-kappaB involvement was only observed in the HCT116 cells, the cell lines displayed increased NF-kappaB transcriptional activity after exposure to NO.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23497483.6.txt Score: 0.305 Matches: [['observed', 'observed'], ['was', 'were'], ['higher', 'higher'], ['mutation', 'mutator'], ['tumor', 'tumor'], ['variants', 'variation'], ['comparison', 'compared'], ['in', 'in'], ['with', 'with']]
+	Sentence: We found a higher mutation rate of somatic variants in tumor tissues in comparison with normal tissues, but no trend was observed for mutation properties.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 14645426.14.txt Score: 0.300 Matches: [['detected', 'observed'], ['was', 'were'], ['gene', 'gene'], ['mutation', 'mutator'], ['cancer', 'tumor'], ['one', 'single'], ['relative', 'compared'], ['MMR', 'MMP'], ['with', 'with']]
+	Sentence: In 23% of the young endometrial cancer patients with at least one first-degree relative with an HNPCC-related cancer, an MMR gene mutation was detected.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 14734469.12.txt Score: 0.292 Matches: [['identified', 'observed'], ['was', 'were'], ['also', 'also'], ['cell', 'cell'], ['line', 'lines'], ['one', 'single'], ['mutation', 'mutator']]
+	Sentence: A BRAF mutation was also identified at residue 463 (G463V) in one cell line.
+	Gold labels: G463V	mutation
+	Manual labels:
+	Comments:
+
+Error in 187:Functional studies are now required to conclude whether mutated miRNAs , and especially the miR - 1303 , might have a role in MSI tumorigenesis .
+Prediction: mutated#B
+Comments:
+
+	Similar sentence 0: 22895193.7.txt Score: 0.261 Matches: [['tumorigenesis', 'tumorigenesis'], ['have', 'have'], ['a', 'a'], ['role', 'role'], ['in', 'in'], ['mutations', 'mutated']]
+	Sentence: The RSPO fusions were mutually exclusive with APC mutations, indicating that they probably have a role in the activation of Wnt signalling and tumorigenesis.
+	Gold labels: fusions	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16885347.2.txt Score: 0.238 Matches: [['tumorigenesis', 'tumorigenesis'], ['a', 'a'], ['role', 'role'], ['in', 'in'], ['might', 'might']]
+	Sentence: Based on its interaction with the MutL homologue MLH1, it was postulated that MLH3 might play a role in tumorigenesis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 21063410.2.txt Score: 0.235 Matches: [['role', 'role'], ['in', 'in'], ['has', 'have'], ['a', 'a']]
+	Sentence: defective DNA repair has a causal role in hereditary colorectal cancer (CRC).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9486818.4.txt Score: 0.235 Matches: [['a', 'a'], ['role', 'role'], ['in', 'in'], ['studies', 'studies'], ['involved', 'required'], ['ends', 'conclude']]
+	Sentence: Recent studies indicate that the reactivation of the activity of telomerase, an enzyme involved in the synthesis of chromosomal ends, in somatic cells may play a role in carcinogenesis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 22396040.11.txt Score: 0.222 Matches: [['required', 'required'], ['to', 'to'], ['studies', 'studies'], ['were', 'are']]
+	Sentence: Because of modest limitation, large sample-sized studies were required to confirm the findings.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 140:DNA from 6 ( 20 % ) of 30 informative tumors exhibited loss of heterozygosity at the APC locus .
+Prediction: loss#O of#O heterozygosity#O
+Comments:
+
+	Similar sentence 0: 1319833.3.txt Score: 0.296 Matches: [['locus', 'locus'], ['showed', 'exhibited'], ['lost', 'loss'], ['the', 'the']]
+	Sentence: The carcinomas that showed 18q LOH also lost the DCC locus.
+	Gold labels: LOH
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 7669575.2.txt Score: 0.294 Matches: [['loci', 'locus'], ['the', 'the'], ['tumours', 'tumors'], ['six', '6'], ['from', 'from']]
+	Sentence: Overall, in tumours from six (21%) patients we found abnormalities in at least one of the loci examined.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 7735559.2.txt Score: 0.270 Matches: [['Loss', 'loss'], ['of', 'of'], ['heterozygosity', 'heterozygosity'], ['tumors', 'tumors'], ['of', 'of']]
+	Sentence: Loss of heterozygosity was detected in 62% (18 of 29 patients) of the tumors at one or more of these microsatellites.
+	Gold labels: Loss of heterozygosity
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8187091.8.txt Score: 0.258 Matches: [['loss', 'loss'], ['of', 'of'], ['heterozygosity', 'heterozygosity'], ['tumors', 'tumors']]
+	Sentence: Additionally, we found 10 FAP tumors that had both somatic mutation and loss of heterozygosity.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9841584.10.txt Score: 0.250 Matches: [['at', 'at'], ['the', 'the'], ['cancer', 'tumors'], ['genetic', 'DNA']]
+	Sentence: Decision about a cancer prevention strategy at the time of a positive result on genetic testing.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 104:96 people registered with the Service who were apparently unaffected members of an extended family that met the classic Amsterdam criteria for HNPCC and carried an MLH1 gene mutation ( IVS9 + 3insT ) .
+Prediction: IVS9#O +#O 3insT#O
+Comments:
+
+	Similar sentence 0: 14645426.15.txt Score: 0.302 Matches: [['of', 'of'], ['an', 'an'], ['HNPCC', 'HNPCC'], ['criterion', 'criteria'], ['mutation', 'mutation'], ['relative', 'family'], ['seems', 'apparently'], ['for', 'for']]
+	Sentence: Therefore, presence of an HNPCC-related cancer in a first-degree relative seems to be an important selection criterion for mutation analysis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 14645426.9.txt Score: 0.286 Matches: [['Amsterdam', 'Amsterdam'], ['criteria', 'criteria'], ['fulfilling', 'met'], ['families', 'family'], ['mutation', 'mutation'], ['the', 'the']]
+	Sentence: Four mutation carriers belonged to families fulfilling the revised Amsterdam criteria.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16885347.1.txt Score: 0.227 Matches: [['member', 'members'], ['is', 'were'], ['gene', 'gene'], ['family', 'family'], ['of', 'of']]
+	Sentence: MLH3 is a recently described member of the DNA mismatch repair gene family.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9476377.9.txt Score: 0.208 Matches: [['families', 'family'], ['mutations', 'mutation'], ['gene', 'gene'], ['representatives', 'members'], ['of', 'of']]
+	Sentence: We screened clinically manifest representatives of nine families for mutations in exon 15 of the APC gene.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18554281.1.txt Score: 0.205 Matches: [['families', 'family'], ['mutations', 'mutation'], ['report', 'registered'], ['of', 'of']]
+	Sentence: A report of 121 families with proven mutations.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+Error in 152:A wide range of topics were covered , including issues relating to genotype - phenotype data submission to the InSiGHT Colon Cancer Gene Variant Databases ( chromium . liacs . nl / LOVD2 / colon _ cancer / home . php ) .
+Prediction: Variant#B
+Comments:
+
+	Similar sentence 0: 20725929.6.txt Score: 0.295 Matches: [['includes', 'covered'], ['linked', 'relating'], ['phenotype', 'phenotype'], ['database', 'Databases'], ['records', 'including'], ['variants', 'Variant'], ['data', 'data'], ['origin', 'home'], ['to', 'to']]
+	Sentence: The database includes records with variants per individual, linked to available phenotype and geographic origin data as well as records with in vitro functional and in silico test data.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 23497483.7.txt Score: 0.286 Matches: [['series', 'range'], ['applying', 'covered'], ['a', 'A'], ['genes', 'Gene'], ['tumor', 'Cancer'], ['variants', 'Variant'], ['of', 'of']]
+	Sentence: By applying a series of stringent filters, we identified 418 genes with tumor specific disruptive somatic variants.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 21063410.0.txt Score: 0.255 Matches: [['large', 'wide'], ['scale', 'range'], ['cancer', 'Cancer'], ['variants', 'Variant'], ['associated', 'relating'], ['A', 'A']]
+	Sentence: A large-scale meta-analysis to refine colorectal cancer risk estimates associated with MUTYH variants.
+	Gold labels: variants
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 23603433.6.txt Score: 0.250 Matches: [['encompasses', 'covered'], ['variety', 'range'], ['a', 'A'], ['gene', 'Gene'], ['cancers', 'Cancer'], ['large', 'wide'], ['involved', 'including'], ['of', 'of']]
+	Sentence: FRA8I encompasses KIAA0146, a large protein-coding gene with yet unknown function, as well as CEBPD and part of PRKDC, two genes encoding proteins involved in tumorigenesis in a variety of cancers.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10822375.8.txt Score: 0.246 Matches: [['range', 'range'], ['of', 'of'], ['colon', 'Colon'], ['cancer', 'Cancer'], ['associated', 'relating'], ['phenotypes', 'phenotype'], ['expressing', 'issues'], ['cancer', 'cancer']]
+	Sentence: We conclude that somatic inactivation of hPMS2 can play a role in development of sporadic MSI colon cancer expressing the full range of cancer phenotypes associated with inactivation of the mismatch repair system.
+	Gold labels: MSI
+	Manual labels:
+	Comments:
+
+Error in 155:Recent progress in the field of molecular biology has allowed us to identify at least two different molecular mechanisms implicated in colorectal carcinogenesis ( CRC ) : chromosomal instability ( CIN ) and genetic instability .
+Prediction: chromosomal#O instability#O CIN#O genetic#O instability#O
+Comments:
+
+	Similar sentence 0: 20198339.5.txt Score: 0.317 Matches: [['in', 'in'], ['the', 'the'], ['molecular', 'molecular'], ['mechanisms', 'mechanisms'], ['colorectal', 'colorectal'], ['carcinogenesis', 'carcinogenesis'], ['provide', 'allowed'], ['involved', 'implicated'], ['new', 'Recent'], ['gene', 'genetic']]
+	Sentence: These results provide new insight into the complex molecular mechanisms involved in the regulation of mucin gene by bile acids in colon cancer cells that may contribute to further elucidation of colorectal carcinogenesis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 21128281.7.txt Score: 0.312 Matches: [['identified', 'identify'], ['CRC', 'CRC'], ['several', 'different'], ['newly', 'Recent'], ['genes', 'genetic'], ['development', 'progress'], ['results', 'allowed'], ['involved', 'implicated'], ['our', 'us'], ['in', 'in']]
+	Sentence: Since several of these newly identified candidate genes may be functionally linked to CRC development, our results illustrate the potential of this approach for the identification of novel candidate genes involved in CRC predisposition.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18268114.1.txt Score: 0.291 Matches: [['offer', 'allowed'], ['Advances', 'progress'], ['genetic', 'genetic'], ['colorectal', 'colorectal'], ['new', 'Recent'], ['assessing', 'identify'], ['multiple', 'different'], ['in', 'in']]
+	Sentence: Advances in genomics offer new strategies for assessing the association of common genetic variations at multiple loci and risk of many diseases, including colorectal cancer.
+	Gold labels: variations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 1299227.10.txt Score: 0.264 Matches: [['in', 'in'], ['colorectal', 'colorectal'], ['progression', 'progress'], ['results', 'allowed'], ['reported', 'identify'], ['DNA', 'genetic'], ['concerning', 'implicated']]
+	Sentence: The DNA heterogeneity may represent tumor progression and can partly explain the conflicting results reported concerning DNA pattern and prognosis in colorectal carcinoma.
+	Gold labels: DNA heterogeneity
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 21128281.1.txt Score: 0.259 Matches: [['In', 'in'], ['the', 'the'], ['discovered', 'identify'], ['to', 'to'], ['colorectal', 'colorectal'], ['CRCs', 'CRC'], ['genetic', 'genetic']]
+	Sentence: In the majority of colorectal cancers (CRCs) under clinical suspicion for a hereditary cause, the disease-causing genetic factors are still to be discovered.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 11:The detection of inter - and intra - tumor alterations in gene expression by unbiased RAP - PCR show that these fluctuations occur with high frequency in tumor cells of the MMP .
+Prediction: alterations#B
+Comments:
+
+	Similar sentence 0: 10822375.7.txt Score: 0.296 Matches: [['of', 'of'], ['the', 'the'], ['demonstrates', 'show'], ['rate', 'frequency'], ['elevated', 'high'], ['cell', 'cells'], ['cancer', 'tumor'], ['gene', 'gene']]
+	Sentence: The hPMS2 deficient Vaco481 cancer cell line demonstrates microsatellite instability, an elevated HPRT gene mutation rate, and resistance to the cytotoxicity of the alkylator MNNG.
+	Gold labels: microsatellite instability	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 20198339.1.txt Score: 0.280 Matches: [['cells', 'cells'], ['of', 'of'], ['the', 'the'], ['expressed', 'expression'], ['major', 'high'], ['expressed', 'show'], ['by', 'by']]
+	Sentence: MUC2 is a major secretory mucin normally expressed by goblet cells of the intestine, but is aberrantly expressed in colonic neoplasia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18184403.4.txt Score: 0.280 Matches: [['of', 'of'], ['the', 'the'], ['gene', 'gene'], ['revealed', 'show'], ['event', 'expression'], ['cancers', 'tumor'], ['that', 'that']]
+	Sentence: However, our recent study revealed that point mutation of the beclin-1 gene is a rare event in common human cancers.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 23096495.6.txt Score: 0.276 Matches: [['in', 'in'], ['tumor', 'tumor'], ['cells', 'cells'], ['of', 'of'], ['the', 'the'], ['frequency', 'frequency'], ['higher', 'high'], ['genes', 'gene']]
+	Sentence: Subsequent analysis using MSP confirmed these observations-the frequency of promoter methylation was significantly higher in tumor cells compared with matched normal tissue for each of the analyzed genes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18097606.0.txt Score: 0.273 Matches: [['of', 'of'], ['the', 'the'], ['expression', 'expression'], ['by', 'by'], ['cell', 'cells'], ['cancer', 'tumor']]
+	Sentence: Transcriptional regulation of the COX-2 expression by nitric oxide in colon cancer cell lines.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 181:A mutational analysis of these sequences in a large series of MSI CRC cell lines and primary tumors underscored instability in 15 of the 24 microRNA genes successfully studied at variable frequencies ranging from 2 . 5 % to 100 % .
+Prediction: mutational#B
+Comments:
+
+	Similar sentence 0: 12530077.5.txt Score: 0.314 Matches: [['in', 'in'], ['a', 'a'], ['cell', 'cell'], ['lines', 'lines'], ['variety', 'series'], ['cancer', 'tumors'], ['analyzed', 'analysis'], ['of', 'of']]
+	Sentence: Mucin-1 expression was analyzed in a variety of colon cancer cell lines.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 23603433.8.txt Score: 0.299 Matches: [['cell', 'cell'], ['lines', 'lines'], ['and', 'and'], ['in', 'in'], ['a', 'a'], ['cancer', 'tumors'], ['examined', 'studied'], ['number', 'series'], ['lines', 'ranging'], ['of', 'of']]
+	Sentence: We examined copy number alteration patterns within FRA8I in a panel of 25 colorectal cancer cell lines and surveyed publically available profiles of 56 additional colorectal cancer cell lines.
+	Gold labels: copy number alteration
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 10822375.7.txt Score: 0.286 Matches: [['of', 'of'], ['the', 'the'], ['cell', 'cell'], ['line', 'lines'], ['cancer', 'tumors'], ['instability', 'instability'], ['gene', 'genes'], ['mutation', 'mutational'], ['rate', 'frequencies']]
+	Sentence: The hPMS2 deficient Vaco481 cancer cell line demonstrates microsatellite instability, an elevated HPRT gene mutation rate, and resistance to the cytotoxicity of the alkylator MNNG.
+	Gold labels: microsatellite instability	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 23096495.6.txt Score: 0.269 Matches: [['of', 'of'], ['the', 'the'], ['confirmed', 'underscored'], ['analysis', 'analysis'], ['genes', 'genes'], ['analyzed', 'studied'], ['frequency', 'frequencies'], ['tumor', 'tumors'], ['cells', 'cell']]
+	Sentence: Subsequent analysis using MSP confirmed these observations-the frequency of promoter methylation was significantly higher in tumor cells compared with matched normal tissue for each of the analyzed genes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 23603433.10.txt Score: 0.267 Matches: [['of', 'of'], ['the', 'the'], ['in', 'in'], ['a', 'a'], ['gene', 'genes'], ['analysis', 'analysis'], ['heavy', 'large'], ['chain', 'series'], ['cell', 'cell'], ['B', '2']]
+	Sentence: Moreover, data analysis revealed evidence that KIAA0146 is a translocation partner of the immunoglobulin heavy chain gene in recurrent t(8;14)(q11;q32) translocations in a subset of patients with B-cell precursor acute lymphoblastic leukemia.
+	Gold labels: translocations
+	Manual labels:
+	Comments:
+
+Error in 142:Our results support the view that malignant progression is a consequence of more than one genetic change and suggest that inactivation of APC and DCC genes plays a role in a multistep process of colon tumor progression .
+Prediction: genetic#O change#O
+Comments:
+
+	Similar sentence 0: 22376259.7.txt Score: 0.381 Matches: [['results', 'results'], ['support', 'support'], ['the', 'the'], ['a', 'a'], ['role', 'role'], ['in', 'in'], ['of', 'of'], ['colon', 'colon'], ['play', 'plays'], ['that', 'that'], ['gene', 'genes'], ['cancer', 'tumor']]
+	Sentence: These results support the hypothesis that COX-2 gene might play a role in the etiology of colon cancer and warrant further investigation in other cancers.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18184403.3.txt Score: 0.379 Matches: [['mechanism', 'process'], ['a', 'a'], ['tumor', 'tumor'], ['point', 'view'], ['mutation', 'change'], ['serve', 'plays'], ['1', 'one'], ['function', 'role'], ['of', 'of'], ['of', 'of'], ['in', 'in']]
+	Sentence: Loss of expression or point mutation could serve as a mechanism of loss of beclin-1 tumor suppressor function in cancers.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 11521793.1.txt Score: 0.345 Matches: [['is', 'is'], ['a', 'a'], ['genetic', 'genetic'], ['progressive', 'progression'], ['mutations', 'change'], ['genes', 'genes'], ['Cancer', 'tumor'], ['caused', 'results'], ['growth', 'progression'], ['of', 'of']]
+	Sentence: Cancer is a genetic disease caused by the progressive accumulation of mutations in critical genes that control cell growth and differentiation.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 25374237.6.txt Score: 0.312 Matches: [['in', 'in'], ['a', 'a'], ['aim', 'view'], ['The', 'the'], ['cancer', 'tumor'], ['colon', 'colon'], ['progression', 'progression'], ['genetic', 'genetic'], ['development', 'change'], ['and', 'and']]
+	Sentence: The aim of this study was to investigate whether specific genetic polymorphisms of survivin could be associated with colon cancer development and progression in a Turkish population.
+	Gold labels: polymorphisms
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16030091.8.txt Score: 0.302 Matches: [['a', 'a'], ['role', 'role'], ['in', 'in'], ['suggest', 'suggest'], ['that', 'that'], ['play', 'plays'], ['genetics', 'genetic'], ['results', 'results']]
+	Sentence: These results suggest that host genetics may play a role in predicting response to chemopreventive strategies.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 91:DNA index by flow cytometry correlated with fractional allelic loss ( r = 0 . 38 , P = 0 . 006 ) .
+Prediction: loss#I
+Comments:
+
+	Similar sentence 0: 12500293.15.txt Score: 0.308 Matches: [['by', 'by'], ['flow', 'flow'], ['cytometry', 'cytometry'], ['P', 'P'], ['0', '0'], ['0', '0'], ['P', 'r'], ['DNA', 'DNA']]
+	Sentence: In addition, cases with an altered number of copies of chromosome 17 showed a higher incidence of DNA aneuploidy (P = 0.0001) and a greater proportion of S-phase cells (P = 0.001) by flow cytometry.
+	Gold labels: altered number of copies	aneuploidy
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12500293.16.txt Score: 0.262 Matches: [['by', 'by'], ['flow', 'flow'], ['cytometry', 'cytometry'], ['P', 'P'], ['0', '0'], ['0', '0'], ['DNA', 'DNA'], ['P', 'r']]
+	Sentence: In contrast, no clear association was found between the presence of numerical abnormalities of chromosome 18 and clinicobiological disease characteristics, except for a higher incidence of DNA aneuploidy by flow cytometry (P = 0.001) and a lower median of disease-free survival (P = 0.06).
+	Gold labels: aneuploidy	numerical abnormalities
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23259783.6.txt Score: 0.216 Matches: [['p', 'P'], ['0', '0'], ['0', '0'], ['p', 'r']]
+	Sentence: Patients with higher plasma level PAI 1 before (p=0.013) and after therapy (p=0.004) had significantly shorter survival.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 1916131.5.txt Score: 0.214 Matches: [['flow', 'flow'], ['cytometry', 'cytometry'], ['DNA', 'DNA']]
+	Sentence: Specific immunofluorescent staining was quantified by dual parameter (DNA/p53) flow cytometry.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 26302849.9.txt Score: 0.197 Matches: [['p', 'P'], ['0', '0'], ['0', '0'], ['p', 'r'], ['allele', 'allelic'], ['decreased', 'loss'], ['ratio', 'index']]
+	Sentence: The genotype "A/T" of rs12413624 in PRLHR gene was associated with a decreased risk of colorectal cancer in allele model analysis [odds ratio (OR) = 0.81; 95% confidence interval (CI) = 0.68-0.97; p = 0.018] and log-additive model analysis (OR = 0.81; 95% CI = 0.66-0.98; p = 0.032).
+	Gold labels: rs12413624
+	Manual labels:
+	Comments:
+
+Error in 167:The inactivation of TGF β pathways is also present in both tumor types and is driven by SMAD4 , and more rarely by a SMAD2 inactivating mutation in CIN tumors , or by the existence of a frame - shift mutation occurring in a polyG coding track of the TGF β ( transforming growth factor ) receptor type II in MSI tumors .
+Prediction: inactivation#B inactivating#B mutation#B CIN#O frame#O -#O shift#O mutation#B
+Comments:
+
+	Similar sentence 0: 9691992.0.txt Score: 0.300 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['type', 'type'], ['II', 'II'], ['mutation', 'mutation'], ['A', 'a'], ['receptor', 'receptor'], ['cancer', 'tumors'], ['mutations', 'mutation'], ['in', 'in'], ['in', 'in']]
+	Sentence: A novel missense mutation and frameshift mutations in the type II receptor of transforming growth factor-beta gene in sporadic colon cancer with microsatellite instability.
+	Gold labels: frameshift mutations	microsatellite instability	missense mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9609758.3.txt Score: 0.293 Matches: [['of', 'of'], ['the', 'the'], ['type', 'type'], ['II', 'II'], ['receptor', 'receptor'], ['Mutations', 'mutation'], ['TGF', 'TGF'], ['described', 'present'], ['cancers', 'tumor'], ['been', 'is'], ['in', 'in']]
+	Sentence: Mutations involving microsatellite-like regions of the type II TGF-beta receptor have been described in subgroups of colorectal cancers.
+	Gold labels: Mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 9609758.13.txt Score: 0.244 Matches: [['TGF', 'TGF'], ['growth', 'growth'], ['cancers', 'tumor'], ['show', 'present'], ['mutated', 'mutation'], ['TGF', 'TGF'], ['receptors', 'receptor'], ['presence', 'existence'], ['of', 'of'], ['do', 'is']]
+	Sentence: Sporadic colorectal cancers do not show an absence or a presence of mutated TGF-beta receptors that could explain a resistance to TGF-beta-mediated growth inhibition.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9691992.2.txt Score: 0.238 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['type', 'type'], ['II', 'II'], ['receptor', 'receptor'], ['TGF', 'TGF'], ['also', 'also'], ['mutations', 'mutation'], ['sequences', 'pathways'], ['in', 'in'], ['were', 'is']]
+	Sentence: These samples were also screened to search mutations in the repeat sequences in the gene for the type II receptor of transforming growth factor-beta (TGF-beta RII) using polymerase chain reaction (PCR), electrophoresis with urea gel, and PCR-single strand conformation polymorphism (PCR-SSCP) method.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9609758.2.txt Score: 0.233 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['of', 'of'], ['TGF', 'TGF'], ['TGF', 'TGF'], ['receptors', 'receptor'], ['mutated', 'mutation'], ['presence', 'present'], ['cancer', 'tumor']]
+	Sentence: An absence or a presence of mutated transforming growth factor (TGF)-beta receptors is a possible hypothesis explaining the resistance of cancer cells to the growth-inhibitory effect of TGF-beta.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+Error in 78:Statistical calculations were performed on six studies representing 964 patients ( mean age 63 years ; 91 MSI - H ; 873 microsatellite stable ( MSS ) tumours ) .
+Prediction: MSI#B microsatellite#B stable#I
+Comments:
+
+	Similar sentence 0: 22899730.8.txt Score: 0.400 Matches: [['conducted', 'performed'], ['were', 'were'], ['analyses', 'studies'], ['age', 'age'], ['sex', 'six'], ['MSI', 'MSI'], ['tumor', 'tumours']]
+	Sentence: Stratified analyses were conducted by age, sex, tumor site, stage, and MSI status.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18554281.5.txt Score: 0.276 Matches: [['were', 'were'], ['performed', 'performed'], ['Tumour', 'tumours'], ['microsatellite', 'microsatellite']]
+	Sentence: Tumour immunohistochemistry and microsatellite testing were performed.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 27070770.11.txt Score: 0.250 Matches: [['patients', 'patients'], ['ages', 'age'], ['assessment', 'studies'], ['tumors', 'tumours'], ['provided', 'representing'], ['on', 'on']]
+	Sentence: Data on the assessment of a risk for malignant tumors at various sites in the affected patients and their family members at different ages are provided.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 24225759.4.txt Score: 0.227 Matches: [['were', 'were'], ['performed', 'performed'], ['on', 'on'], ['studies', 'studies'], ['patients', 'patients']]
+	Sentence: Mutation studies for BRAF, KRAS, PIK3CA, and EGFR and immunohistochemical staining for Ki-67 were performed on 107 TSAs from 104 patients.
+	Gold labels: Mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 1325867.1.txt Score: 0.222 Matches: [['were', 'were'], ['performed', 'performed'], ['on', 'on'], ['studies', 'studies']]
+	Sentence: Chromosome studies were performed on direct preparations of seven cases of primary colorectal carcinomas.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 143:Partial downregulation of MAD1 causes spindle checkpoint inactivation and aneuploidy , but does not confer resistance towards taxol .
+Prediction: inactivation#B aneuploidy#B
+Comments:
+
+	Similar sentence 0: 20661832.6.txt Score: 0.167 Matches: [['spindle', 'spindle'], ['checkpoint', 'checkpoint'], ['results', 'causes']]
+	Sentence: Fourth, results of DOC treatment on nocodazole-challenged cells further indicated deficiencies in activation of the spindle assembly checkpoint.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 20661832.0.txt Score: 0.158 Matches: [['spindle', 'spindle'], ['checkpoint', 'checkpoint'], ['induced', 'causes']]
+	Sentence: Hydrophobic bile acid-induced micronuclei formation, mitotic perturbations, and decreases in spindle checkpoint proteins: relevance to genomic instability in colon carcinogenesis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 17096342.8.txt Score: 0.140 Matches: [['does', 'does'], ['not', 'not'], ['results', 'causes']]
+	Sentence: The results indicate that the MDM2 SNP309, alone or in combination with TP53 R72P, does not influence age of diagnosis of CRC in individuals with HNPCC.
+	Gold labels: R72P	SNP309
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 20646601.9.txt Score: 0.138 Matches: [['cases', 'causes'], ['K', 'towards']]
+	Sentence: Of 208 cases, 91 cases of K-ras gene mutation were detected.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10962562.2.txt Score: 0.138 Matches: [['induces', 'causes'], ['stress', 'resistance']]
+	Sentence: Overexpression of BRCA1 induces GADD45, a p53-regulated and stress-inducible gene.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 158:These allelic losses are associated with mutations in TP53 , APC , SMAD2 and SMAD4 genes .
+Prediction: mutations#B
+Comments:
+
+	Similar sentence 0: 16886602.13.txt Score: 0.333 Matches: [['associated', 'associated'], ['with', 'with'], ['allelic', 'allelic'], ['was', 'are']]
+	Sentence: The allelic status was significantly associated with lymph node metastasis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15987719.0.txt Score: 0.312 Matches: [['mutations', 'mutations'], ['in', 'in'], ['gene', 'genes'], ['damage', 'losses'], ['with', 'with']]
+	Sentence: Cells with pathogenic biallelic mutations in the human MUTYH gene are defective in DNA damage binding and repair.
+	Gold labels: biallelic mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 21479914.5.txt Score: 0.308 Matches: [['associated', 'associated'], ['with', 'with'], ['mutated', 'mutations'], ['were', 'are']]
+	Sentence: Variants of CYP19A1 were associated with CIMP+ and CIMP+/KRAS2-mutated tumors.
+	Gold labels: Variants
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16426918.11.txt Score: 0.300 Matches: [['involved', 'associated'], ['loss', 'losses'], ['is', 'are'], ['genes', 'genes'], ['transformation', 'mutations'], ['in', 'in']]
+	Sentence: Our results suggest that loss of mismatch repair genes is involved in the malignant transformation in some renal carcinomas, particularly those derived from the proximal tubules.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9731891.17.txt Score: 0.292 Matches: [['with', 'with'], ['mutations', 'mutations'], ['in', 'in'], ['associated', 'associated'], ['is', 'are'], ['genes', 'genes'], ['and', 'and']]
+	Sentence: Microsatellite instability is prone to occur in sporadic right colon carcinoma during tumor growth and is not associated significantly with mutations in the hMLH1 and hMSH2 mismatch repair genes or in the p53 gene.
+	Gold labels: Microsatellite instability	mutations
+	Manual labels:
+	Comments:
+
+Error in 87:Therefore , DNA ploidy by flow cytometry was correlated with molecular genetic alterations and tumor characteristics in 50 colorectal carcinomas .
+Prediction: genetic#O alterations#O
+Comments:
+
+	Similar sentence 0: 1299227.8.txt Score: 0.333 Matches: [['DNA', 'DNA'], ['ploidy', 'ploidy'], ['carcinoma', 'carcinomas'], ['colorectal', 'colorectal'], ['pattern', 'characteristics'], ['in', 'in']]
+	Sentence: The DNA ploidy pattern is of potential value in conjunction with histopathologic prognostic parameters in colorectal carcinoma.
+	Gold labels: DNA ploidy
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 1299227.10.txt Score: 0.333 Matches: [['carcinoma', 'carcinomas'], ['colorectal', 'colorectal'], ['DNA', 'DNA'], ['tumor', 'tumor'], ['DNA', 'genetic'], ['pattern', 'characteristics'], ['in', 'in']]
+	Sentence: The DNA heterogeneity may represent tumor progression and can partly explain the conflicting results reported concerning DNA pattern and prognosis in colorectal carcinoma.
+	Gold labels: DNA heterogeneity
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 1299227.1.txt Score: 0.333 Matches: [['DNA', 'DNA'], ['ploidy', 'ploidy'], ['tumor', 'tumor'], ['DNA', 'genetic'], ['pattern', 'characteristics']]
+	Sentence: DNA ploidy pattern and prognosis with reference to tumor DNA heterogeneity.
+	Gold labels: DNA heterogeneity	DNA ploidy pattern
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9731891.3.txt Score: 0.320 Matches: [['molecular', 'molecular'], ['genetic', 'genetic'], ['alterations', 'alterations'], ['carcinoma', 'carcinomas'], ['correlate', 'correlated'], ['tumors', 'tumor'], ['in', 'in'], ['with', 'with']]
+	Sentence: The purpose of this study was to characterize multiple molecular genetic alterations in sporadic colon carcinoma and to correlate them with the location of the tumors and with lymph node metastasis.
+	Gold labels: genetic alterations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16426918.1.txt Score: 0.308 Matches: [['carcinomas', 'carcinomas'], ['linked', 'correlated'], ['been', 'was'], ['colorectal', 'colorectal'], ['hereditary', 'genetic'], ['cancer', 'tumor'], ['with', 'with'], ['in', 'in']]
+	Sentence: Mutation of human mutL homolog 1 (MLH-1) and human mutS homolog 2 (MSH-2) has been linked with the pathogenesis of colorectal carcinoma in hereditary nonpolyposis colorectal cancer syndrome and other carcinomas.
+	Gold labels: Mutation
+	Manual labels:
+	Comments:
+
+Error in 174:The mean mutational rates of MSI - H colorectal carcinomas and MSI - H gastric carcinomas were 2 . 03 and 1 . 95 in the 4 genes containing ( A ) 10 repeats , 1 . 23 and 0 . 73 in the 4 genes with ( A ) 9 repeats and 0 . 61 and 0 . 48 in the 4 genes containing ( A ) 8 repeats , respectively ( p < 0 . 001 ) .
+Prediction: -#O H#O -#O H#O
+Comments:
+
+	Similar sentence 0: 26302849.10.txt Score: 0.280 Matches: [['with', 'with'], ['a', 'A'], ['p', 'p'], ['0', '0'], ['cancer', 'carcinomas'], ['gastric', 'gastric'], ['0', '0'], ['0', '0'], ['gene', 'genes'], ['0', '0'], ['95', '95'], ['G', 'H'], ['in', 'in']]
+	Sentence: The genotype "A/G" of rs1665650 in HSPA12A gene was associated with a decreased risk of gastric cancer in overdominant model analysis (OR = 0.77; 95% CI = 0.60-0.99; p = 0.038).
+	Gold labels: rs1665650
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18184403.9.txt Score: 0.275 Matches: [['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['cancers', 'carcinomas'], ['colorectal', 'colorectal'], ['gastric', 'gastric'], ['1', '1'], ['1', '1'], ['present', 'containing'], ['cancers', 'carcinomas'], ['showed', 'containing'], ['of', 'of'], ['a', 'A']]
+	Sentence: The beclin-1 expression of colorectal and gastric cancers in the present study is quite in contrast to that of the breast cancers in the previous study, which showed a decreased beclin-1 expression in breast cancer cells compared to normal breast cells.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22555244.9.txt Score: 0.274 Matches: [['001', '001'], ['p', 'p'], ['0', '0'], ['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['rate', 'rates'], ['The', 'The'], ['0', '0'], ['4', '4']]
+	Sentence: The response rate for cetuximab in the W/M group (0%) was the same as that in the M/M group, and was significantly lower than in the W/W group (41.4%) (p < 0.001).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 22810479.13.txt Score: 0.267 Matches: [['p', 'p'], ['0', '0'], ['cancer', 'carcinomas'], ['colorectal', 'colorectal'], ['1', '1'], ['1', '1'], ['95', '95'], ['0', '0'], ['10', '10'], ['gene', 'genes'], ['mutations', 'mutational'], ['HR', 'H']]
+	Sentence: : The pooled HR for the association between K-ras gene mutations and overall survival in patients with colorectal cancer was 1.04 (95% CI: 0.99-1.10, p = 0.11).
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18184403.6.txt Score: 0.250 Matches: [['colorectal', 'colorectal'], ['carcinomas', 'carcinomas'], ['and', 'and'], ['In', 'in'], ['the', 'the'], ['gastric', 'gastric'], ['carcinomas', 'carcinomas'], ['1', '1'], ['95', '95'], ['of', 'of']]
+	Sentence: In the cancers, expression of beclin-1 was detected in 95% of the colorectal carcinomas and 83% of the gastric carcinomas.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 0:Frequent alterations in gene expression in colon tumor cells of the microsatellite mutator phenotype .
+Prediction: alterations#B
+Comments:
+
+	Similar sentence 0: 18097606.0.txt Score: 0.483 Matches: [['in', 'in'], ['colon', 'colon'], ['of', 'of'], ['the', 'the'], ['cell', 'cells'], ['cancer', 'tumor'], ['expression', 'expression']]
+	Sentence: Transcriptional regulation of the COX-2 expression by nitric oxide in colon cancer cell lines.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18184403.4.txt Score: 0.457 Matches: [['of', 'of'], ['the', 'the'], ['mutation', 'mutator'], ['gene', 'gene'], ['event', 'expression'], ['common', 'Frequent'], ['cancers', 'tumor'], ['in', 'in']]
+	Sentence: However, our recent study revealed that point mutation of the beclin-1 gene is a rare event in common human cancers.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 25374237.2.txt Score: 0.417 Matches: [['of', 'of'], ['the', 'the'], ['Colon', 'colon'], ['cancer', 'tumor'], ['common', 'Frequent']]
+	Sentence: Colon cancer is one of the most common cancers worldwide.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 7735559.0.txt Score: 0.400 Matches: [['alterations', 'alterations'], ['Genetic', 'gene'], ['microsatellites', 'microsatellite'], ['of', 'of'], ['in', 'in']]
+	Sentence: Genetic alterations of microsatellites on chromosome 18 in human breast carcinoma.
+	Gold labels: alterations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 12530077.0.txt Score: 0.400 Matches: [['gene', 'gene'], ['expression', 'expression'], ['in', 'in'], ['colon', 'colon'], ['cells', 'cells'], ['cancer', 'tumor']]
+	Sentence: Amplified Muc1-specific gene expression in colon cancer cells utilizing a binary system in adenoviral vectors.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 46:Four tumors displayed mutations in the poly - G8 repeat of BAX , whereas 2 mutations in hMSH6 and hMSH3 were characterized .
+Prediction: mutations#B
+Comments:
+
+	Similar sentence 0: 15930278.0.txt Score: 0.303 Matches: [['Mutations', 'mutations'], ['in', 'in'], ['two', '2'], ['repeats', 'repeat'], ['cancers', 'tumors']]
+	Sentence: Mutations in two short noncoding mononucleotide repeats in most microsatellite-unstable colorectal cancers.
+	Gold labels: Mutations	microsatellite-unstable
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 19140394.5.txt Score: 0.273 Matches: [['in', 'in'], ['the', 'the'], ['of', 'of'], ['BAX', 'BAX'], ['demonstrated', 'displayed'], ['changed', 'mutations']]
+	Sentence: Immunohistochemical studies of BAX expression in untransformed and atypical gastric and colonic cells demonstrated activation of apoptosis-inducing mechanisms in the pathologically changed tissue.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 9609758.11.txt Score: 0.270 Matches: [['in', 'in'], ['the', 'the'], ['mutation', 'mutations'], ['II', '2'], ['samples', 'displayed']]
+	Sentence: No mutation was observed in the microsatellite-like regions of receptor II in any of the samples.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 7735559.9.txt Score: 0.267 Matches: [['in', 'in'], ['the', 'the'], ['showed', 'displayed'], ['Four', 'Four'], ['repeat', 'repeat'], ['tumor', 'tumors']]
+	Sentence: Four percent of all microsatellites tested in these patients showed allelic differences in the sizes of repeat units between tumor and the corresponding constitutional DNAs.
+	Gold labels: allelic differences
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9691992.0.txt Score: 0.267 Matches: [['mutations', 'mutations'], ['in', 'in'], ['the', 'the'], ['mutation', 'mutations'], ['II', '2'], ['cancer', 'tumors']]
+	Sentence: A novel missense mutation and frameshift mutations in the type II receptor of transforming growth factor-beta gene in sporadic colon cancer with microsatellite instability.
+	Gold labels: frameshift mutations	microsatellite instability	missense mutation
+	Manual labels:
+	Comments:
+
+Error in 106:Predictive genetic testing was offered in a cascade manner to at - risk family members ; mutation - positive individuals were advised to have annual colonoscopic surveillance , while mutation - negative individuals were withdrawn from surveillance .
+Prediction: mutation#B
+Comments:
+
+	Similar sentence 0: 23012243.5.txt Score: 0.281 Matches: [['reported', 'advised'], ['were', 'were'], ['negative', 'negative'], ['mutations', 'mutation'], ['tested', 'testing'], ['available', 'offered'], ['methods', 'manner'], ['to', 'to']]
+	Sentence: To address this question, we tested for 3' deletions in 58 samples that were reported to be negative for PMS2 mutations using previously available methods.
+	Gold labels: deletions	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9841584.23.txt Score: 0.264 Matches: [['Colonoscopic', 'colonoscopic'], ['surveillance', 'surveillance'], ['method', 'manner'], ['an', 'a'], ['risk', 'risk'], ['mutation', 'mutation'], ['hereditary', 'genetic']]
+	Sentence: Colonoscopic surveillance is an effective method of reducing risk for cancer in carriers of a mutation for hereditary nonpolyposis colorectal cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23512527.0.txt Score: 0.264 Matches: [['predictive', 'Predictive'], ['genetic', 'genetic'], ['testing', 'testing'], ['in', 'in'], ['a', 'a'], ['surveillance', 'surveillance'], ['year', 'annual']]
+	Sentence: Psychosocial consequences of predictive genetic testing for Lynch syndrome and associations to surveillance behaviour in a 7-year follow-up study.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 17234021.2.txt Score: 0.254 Matches: [['recommended', 'advised'], ['are', 'were'], ['risk', 'risk'], ['families', 'family'], ['positive', 'positive'], ['mutation', 'mutation'], ['Surveillance', 'surveillance'], ['to', 'to']]
+	Sentence: Surveillance programs are recommended to both families at high risk (Amsterdam-positive families with known- and unknown mutation) and moderate risk (families not fulfilling all Amsterdam criteria) of colorectal cancer (CRC).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 27070770.11.txt Score: 0.241 Matches: [['family', 'family'], ['members', 'members'], ['provided', 'offered'], ['are', 'was'], ['different', 'individuals'], ['risk', 'risk'], ['various', 'individuals']]
+	Sentence: Data on the assessment of a risk for malignant tumors at various sites in the affected patients and their family members at different ages are provided.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 159:All of these alterations are grouped under the phenotype CIN .
+Prediction: alterations#B CIN#O
+Comments:
+
+	Similar sentence 0: 27070770.12.txt Score: 0.316 Matches: [['of', 'of'], ['these', 'these'], ['Each', 'All']]
+	Sentence: Each of these syndromes has a dissimilar genetic foundation.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16030091.9.txt Score: 0.316 Matches: [['of', 'of'], ['these', 'these'], ['populations', 'grouped']]
+	Sentence: Confirmation of these findings in other populations is required.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22899730.13.txt Score: 0.250 Matches: [['Associations', 'grouped'], ['with', 'under']]
+	Sentence: Associations with overall survival were similar.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 24576032.12.txt Score: 0.242 Matches: [['classified', 'grouped'], ['each', 'All'], ['through', 'under'], ['of', 'of']]
+	Sentence: An average of 95.4% of the laboratories correctly classified each of the survey test samples from the 2005A through 2012B proficiency challenges.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 12534642.10.txt Score: 0.240 Matches: [['the', 'the'], ['phenotype', 'phenotype'], ['In', 'under']]
+	Sentence: In the phenotype analysis, lower caffeine metabolic ratios were detected in cases than in controls.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 185:For the only one expressed in colonic tissues , hsa - mir - 1303 , no direct link was found between the presence or not of mono - or bi - allelic alterations and the levels of mature miR expression in MSI cell lines , as determined by sequencing and quantitative PCR respectively .
+Prediction: allelic#B alterations#B
+Comments:
+
+	Similar sentence 0: 19140394.5.txt Score: 0.257 Matches: [['expression', 'expression'], ['in', 'in'], ['colonic', 'colonic'], ['demonstrated', 'expressed'], ['cells', 'cell'], ['tissue', 'tissues'], ['changed', 'alterations'], ['of', 'of'], ['in', 'in']]
+	Sentence: Immunohistochemical studies of BAX expression in untransformed and atypical gastric and colonic cells demonstrated activation of apoptosis-inducing mechanisms in the pathologically changed tissue.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 25840688.2.txt Score: 0.233 Matches: [['between', 'between'], ['the', 'the'], ['and', 'and'], ['the', 'the'], ['level', 'levels'], ['expression', 'expression'], ['cell', 'cell'], ['changes', 'alterations'], ['defined', 'determined'], ['of', 'of']]
+	Sentence: This study investigated the changes in the level of expression of a well-defined panel of cell proliferation, differentiation, and apoptosis markers between the primary colorectal cancer (CRC) and the corresponding synchronous lymph node (LN) metastasis from the same patients.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 14734469.6.txt Score: 0.219 Matches: [['cell', 'cell'], ['lines', 'lines'], ['sequencing', 'sequencing'], ['and', 'and'], ['specific', 'determined'], ['PCR', 'PCR'], ['in', 'in'], ['by', 'by']]
+	Sentence: We analyzed BRAF mutations in 26 colorectal cancer cell lines, 80 sporadic colorectal cancers, and 20 tumors from HNPCC patients by DNA sequencing and sequence-specific PCR.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15930278.6.txt Score: 0.213 Matches: [['cell', 'cell'], ['lines', 'lines'], ['detected', 'found'], ['were', 'was'], ['level', 'levels'], ['assessed', 'determined'], ['between', 'between'], ['by', 'by']]
+	Sentence: The putative effect of the SEMG1 mutations was assessed by RNA and protein level analyses, but no differences were detected between colorectal cancer cell lines with different SEMG1 status.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 7735559.7.txt Score: 0.212 Matches: [['and', 'and'], ['the', 'the'], ['was', 'was'], ['found', 'found'], ['correlation', 'link'], ['No', 'no'], ['stage', 'levels']]
+	Sentence: No apparent correlation between loss of heterozygosity of chromosome 18 microsatellites and the clinical stage was found in this series.
+	Gold labels: loss of heterozygosity
+	Manual labels:
+	Comments:
+
+Error in 183:The first group included 21 genes that displayed no or few mutations in CRC .
+Prediction: mutations#B
+Comments:
+
+	Similar sentence 0: 22899730.3.txt Score: 0.296 Matches: [['CRC', 'CRC'], ['association', 'group'], ['The', 'The'], ['mutation', 'mutations']]
+	Sentence: The independent association between BRAF mutation status and CRC survival, however, remains unclear.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 23132392.12.txt Score: 0.286 Matches: [['Mutations', 'mutations'], ['in', 'in'], ['CRC', 'CRC'], ['samples', 'displayed']]
+	Sentence: Mutations in CRC samples indicate that MED12 may, albeit rarely, contribute to CRC tumorigenesis.
+	Gold labels: Mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 25029911.3.txt Score: 0.286 Matches: [['CRC', 'CRC'], ['gene', 'genes'], ['shown', 'displayed'], ['in', 'in']]
+	Sentence: Previous studies have shown that NGX6 gene is down-regulated in colorectal cancer (CRC).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16924054.3.txt Score: 0.258 Matches: [['mutations', 'mutations'], ['in', 'in'], ['genes', 'genes'], ['1', 'first']]
+	Sentence: It is secondary to germline mutations in DNA mismatch repair genes, mainly MLH-1 and MSH-2.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 22396040.0.txt Score: 0.258 Matches: [['associations', 'group'], ['the', 'The'], ['1', 'first'], ['genetic', 'genes']]
+	Sentence: Meta-analyses of the associations between four common TGF-β1 genetic polymorphisms and risk of colorectal tumor.
+	Gold labels: polymorphisms
+	Manual labels:
+	Comments:
+
+Error in 94:Aneuploidy was associated with moderate and poor differentiation of the carcinomas but not with distant metastasis .
+Prediction: Aneuploidy#B
+Comments:
+
+	Similar sentence 0: 17389618.3.txt Score: 0.357 Matches: [['of', 'of'], ['the', 'the'], ['associated', 'associated'], ['with', 'with'], ['were', 'was']]
+	Sentence: Most of the SNPs were not associated with risk of colorectal adenoma.
+	Gold labels: SNPs
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 20196079.11.txt Score: 0.343 Matches: [['but', 'but'], ['not', 'not'], ['with', 'with'], ['associated', 'associated'], ['with', 'with'], ['was', 'was']]
+	Sentence: beta-Catenin nuclear staining was strongly associated with MYC levels (p value 0.03) but not with KRAS mutations.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22810479.2.txt Score: 0.323 Matches: [['of', 'of'], ['the', 'the'], ['associated', 'associated'], ['with', 'with'], ['cancer', 'carcinomas']]
+	Sentence: : The K-ras gene is one of the commonly mutated oncogenes associated with colorectal cancer.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16886602.13.txt Score: 0.308 Matches: [['metastasis', 'metastasis'], ['associated', 'associated'], ['with', 'with'], ['was', 'was']]
+	Sentence: The allelic status was significantly associated with lymph node metastasis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 23259783.3.txt Score: 0.294 Matches: [['associated', 'associated'], ['with', 'with'], ['cancer', 'carcinomas'], ['be', 'was'], ['of', 'of']]
+	Sentence: This genotype may be associated with worse prognosis and proximal location of colorectal cancer than 5G/5G homozygotes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 97:The results suggest that DNA aneuploidy is associated with some of the molecular genetic alterations and phenotypic characteristics of colorectal carcinomas but is not a reliable indicator of metastatic potential .
+Prediction: genetic#O alterations#O
+Comments:
+
+	Similar sentence 0: 17389618.3.txt Score: 0.429 Matches: [['of', 'of'], ['the', 'the'], ['associated', 'associated'], ['with', 'with'], ['of', 'of'], ['colorectal', 'colorectal'], ['risk', 'potential'], ['were', 'is'], ['Most', 'but']]
+	Sentence: Most of the SNPs were not associated with risk of colorectal adenoma.
+	Gold labels: SNPs
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 8495305.5.txt Score: 0.348 Matches: [['results', 'results'], ['suggest', 'suggest'], ['that', 'that'], ['is', 'is'], ['not', 'not'], ['alterations', 'alterations'], ['gene', 'genetic'], ['The', 'The']]
+	Sentence: The present results suggest that this is not the case with regard to p53 gene alterations.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 17186357.3.txt Score: 0.328 Matches: [['associated', 'associated'], ['with', 'with'], ['of', 'of'], ['the', 'the'], ['shown', 'suggest'], ['carcinoma', 'carcinomas'], ['colorectal', 'colorectal'], ['gene', 'genetic'], ['that', 'that'], ['are', 'is']]
+	Sentence: We have recently shown that genotypes of the single nucleotide polymorphism (SNP) T393C in the gene GNAS1 are associated with survival of patients suffering from bladder, renal cell and colorectal carcinoma.
+	Gold labels: SNP	T393C	single nucleotide polymorphism
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16426918.11.txt Score: 0.321 Matches: [['results', 'results'], ['suggest', 'suggest'], ['that', 'that'], ['involved', 'associated'], ['is', 'is'], ['transformation', 'alterations'], ['the', 'the'], ['carcinomas', 'carcinomas'], ['genes', 'genetic']]
+	Sentence: Our results suggest that loss of mismatch repair genes is involved in the malignant transformation in some renal carcinomas, particularly those derived from the proximal tubules.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 22810479.2.txt Score: 0.311 Matches: [['of', 'of'], ['the', 'the'], ['associated', 'associated'], ['with', 'with'], ['cancer', 'carcinomas'], ['colorectal', 'colorectal'], ['gene', 'genetic']]
+	Sentence: : The K-ras gene is one of the commonly mutated oncogenes associated with colorectal cancer.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+Error in 138:We examined 36 cases of human sporadic colon carcinoma and corresponding normal tissue samples to evaluate loss of heterozygosity at the APC and DCC tumor suppressor genes loci using restriction fragment length polymorphism polymerase chain reaction and variable nucleotide tandem repeat analysis .
+Prediction: of#O
+Comments:
+
+	Similar sentence 0: 25374237.9.txt Score: 0.326 Matches: [['restriction', 'restriction'], ['fragment', 'fragment'], ['length', 'length'], ['polymorphism', 'polymorphism'], ['polymerase', 'polymerase'], ['chain', 'chain'], ['reaction', 'reaction'], ['colon', 'colon'], ['cancer', 'carcinoma'], ['gene', 'genes'], ['using', 'using'], ['associated', 'corresponding'], ['investigated', 'examined'], ['and', 'and']]
+	Sentence: The relation between colon cancer and survivin -31 G/C (rs9904341), -241 C/T (rs17878467) and -625 C/G (rs8073069) polymorphism in promotor site of survivin gene associated with apoptosis was investigated using the polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method.
+	Gold labels: polymorphism	rs17878467	rs8073069	rs9904341
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 14734469.6.txt Score: 0.261 Matches: [['analyzed', 'examined'], ['We', 'We'], ['cancers', 'carcinoma'], ['sporadic', 'sporadic'], ['tumors', 'tumor'], ['lines', 'chain'], ['sequence', 'nucleotide'], ['PCR', 'polymerase'], ['and', 'and']]
+	Sentence: We analyzed BRAF mutations in 26 colorectal cancer cell lines, 80 sporadic colorectal cancers, and 20 tumors from HNPCC patients by DNA sequencing and sequence-specific PCR.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 26302849.7.txt Score: 0.259 Matches: [['analysis', 'analysis'], ['evaluated', 'evaluate'], ['using', 'using'], ['model', 'samples'], ['test', 'examined'], ['genetic', 'genes'], ['and', 'and']]
+	Sentence: All these SNPs were evaluated using the χ² test and genetic model analysis.
+	Gold labels: SNPs
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8187091.1.txt Score: 0.253 Matches: [['polymerase', 'polymerase'], ['chain', 'chain'], ['reaction', 'reaction'], ['APC', 'APC'], ['using', 'using'], ['analyzed', 'examined'], ['normal', 'normal'], ['tissues', 'tissue'], ['gene', 'genes'], ['tumors', 'tumor'], ['polymorphism', 'polymorphism']]
+	Sentence: Mutation of the adenomatous polyposis coli (APC) gene was analyzed in 500 colorectal tumors from 70 familial adenomatous polyposis (FAP) and 102 non-FAP patients and in normal tissues from 119 FAP patients, using polymerase chain reaction-single-strand conformation polymorphism and direct sequencing methods.
+	Gold labels: Mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9841584.10.txt Score: 0.241 Matches: [['at', 'at'], ['the', 'the'], ['Decision', 'cases'], ['cancer', 'carcinoma'], ['time', 'length'], ['genetic', 'genes'], ['testing', 'analysis']]
+	Sentence: Decision about a cancer prevention strategy at the time of a positive result on genetic testing.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 160:A genetic instability termed MSI ( microsatellite instability ) , which results from a mismatch repair ( MMR ) deficiency , appears in 12 - 15 % of CRC cases .
+Prediction: repair#I deficiency#B
+Comments:
+
+	Similar sentence 0: 16396368.2.txt Score: 0.368 Matches: [['mismatch', 'mismatch'], ['repair', 'repair'], ['MMR', 'MMR'], ['microsatellite', 'microsatellite'], ['instability', 'instability'], ['MSI', 'MSI'], ['DNA', 'genetic']]
+	Sentence: It is characterized by microsatellite instability (MSI) related to mutations of DNA mismatch repair (MMR) genes.
+	Gold labels: MSI	microsatellite instability	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 10822375.5.txt Score: 0.333 Matches: [['mismatch', 'mismatch'], ['repair', 'repair'], ['deficient', 'deficiency'], ['derived', 'results'], ['DNA', 'genetic'], ['from', 'from']]
+	Sentence: The cell line derived from this tumor is functionally deficient in DNA mismatch repair.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 10822375.1.txt Score: 0.333 Matches: [['mismatch', 'mismatch'], ['repair', 'repair'], ['MSI', 'MSI'], ['microsatellite', 'microsatellite'], ['unstable', 'instability'], ['DNA', 'genetic']]
+	Sentence: Inactivation of DNA-mismatch repair underlies the genesis of microsatellite unstable (MSI) colon cancers.
+	Gold labels: MSI	microsatellite unstable
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9731891.15.txt Score: 0.333 Matches: [['mismatch', 'mismatch'], ['repair', 'repair'], ['microsatellite', 'microsatellite'], ['instability', 'instability'], ['cases', 'cases'], ['genes', 'genetic'], ['of', 'of']]
+	Sentence: Mutations of the hMLH1 and hMSH2 mismatch repair genes were detected in 7 of 24 cases with marked microsatellite instability.
+	Gold labels: Mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 17454882.9.txt Score: 0.303 Matches: [['cases', 'cases'], ['Mismatch', 'mismatch'], ['repair', 'repair'], ['MMR', 'MMR'], ['of', 'of']]
+	Sentence: Mismatch repair (MMR) mutations were detected in 6.5% of cases.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 58:Although several genes that might mediate p53 - induced apoptosis have been proposed , none have previously been shown to play an essential role in this process through a rigorous gene disruption approach .
+Prediction: gene#B disruption#I
+Comments:
+
+	Similar sentence 0: 1916131.2.txt Score: 0.327 Matches: [['been', 'been'], ['shown', 'shown'], ['to', 'to'], ['have', 'have'], ['Although', 'Although'], ['p53', 'p53'], ['gene', 'genes'], ['present', 'proposed'], ['was', 'been']]
+	Sentence: Although mutations of the p53 gene have been shown to be frequent, the protein was present in only approximately 50 percent of specimens examined.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16030091.8.txt Score: 0.298 Matches: [['role', 'role'], ['in', 'in'], ['play', 'play'], ['suggest', 'shown'], ['genetics', 'genes'], ['strategies', 'approach'], ['a', 'an']]
+	Sentence: These results suggest that host genetics may play a role in predicting response to chemopreventive strategies.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18345036.2.txt Score: 0.235 Matches: [['In', 'in'], ['this', 'this'], ['mediated', 'mediate'], ['apoptosis', 'apoptosis'], ['p53', 'p53'], ['mechanism', 'process']]
+	Sentence: In this study, we investigated a molecular mechanism underlying Bim-mediated apoptosis of p53-deficient tumor cells following actin damage.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 26710976.4.txt Score: 0.232 Matches: [['plays', 'play'], ['role', 'role'], ['critical', 'essential'], ['gene', 'genes'], ['manner', 'approach'], ['alteration', 'disruption'], ['a', 'an'], ['that', 'that']]
+	Sentence: The basic scientist plays a critical role since the DNA sequencing information is of limited use unless one knows the function of the gene that is altered and the manner by which a sequence alteration affects that function.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 14734469.2.txt Score: 0.231 Matches: [['role', 'role'], ['in', 'in'], ['plays', 'play'], ['important', 'essential'], ['gene', 'genes'], ['an', 'an']]
+	Sentence: The BRAF gene encodes a serine/threonine kinase and plays an important role in the mitogen-activated protein kinase signaling pathway.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 12:These results indicate that the profound genomic instability of tumor cells of the MMP is also reflected in a high incidence of alterations in their patterns of gene expression .
+Prediction: genomic#O instability#O
+Comments:
+
+	Similar sentence 0: 7669575.4.txt Score: 0.370 Matches: [['of', 'of'], ['alterations', 'alterations'], ['in', 'in'], ['a', 'a'], ['high', 'high'], ['pattern', 'patterns'], ['instability', 'instability'], ['reported', 'indicate'], ['cancer', 'tumor'], ['of', 'of']]
+	Sentence: This pattern of instability is distinct from that reported in colorectal cancer and other cancers that have a high level of alterations in dinucleotide repeats.
+	Gold labels: instability
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 10822375.7.txt Score: 0.370 Matches: [['of', 'of'], ['the', 'the'], ['demonstrates', 'indicate'], ['rate', 'incidence'], ['an', 'a'], ['elevated', 'high'], ['instability', 'instability'], ['cell', 'cells'], ['cancer', 'tumor'], ['gene', 'gene']]
+	Sentence: The hPMS2 deficient Vaco481 cancer cell line demonstrates microsatellite instability, an elevated HPRT gene mutation rate, and resistance to the cytotoxicity of the alkylator MNNG.
+	Gold labels: microsatellite instability	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 20198339.1.txt Score: 0.360 Matches: [['cells', 'cells'], ['of', 'of'], ['the', 'the'], ['expressed', 'reflected'], ['is', 'is'], ['expressed', 'expression'], ['major', 'high'], ['in', 'in'], ['a', 'a']]
+	Sentence: MUC2 is a major secretory mucin normally expressed by goblet cells of the intestine, but is aberrantly expressed in colonic neoplasia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 11521793.3.txt Score: 0.340 Matches: [['of', 'of'], ['the', 'the'], ['genes', 'gene'], ['gains', 'high'], ['structure', 'patterns'], ['impact', 'incidence'], ['cancer', 'tumor'], ['of', 'of'], ['of', 'of']]
+	Sentence: The tremendous gains in the knowledge of the structure and function of human genes will surely impact the diagnosis, prognosis and treatment of cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 20459617.0.txt Score: 0.314 Matches: [['gene', 'gene'], ['expression', 'expression'], ['identify', 'indicate'], ['high', 'high'], ['genome', 'genomic'], ['profiles', 'patterns'], ['cancer', 'tumor'], ['of', 'of']]
+	Sentence: Distinct high resolution genome profiles of early onset and late onset colorectal cancer integrated with gene expression data identify candidate susceptibility loci.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 176:These findings suggest that mutational rates of the target genes in MSI - H tumors are diverse , and higher mutational rates are related to the length of mononucleotide repeat sequences of the target genes and histologic type of tumors .
+Prediction: -#O H#O
+Comments:
+
+	Similar sentence 0: 8187091.10.txt Score: 0.356 Matches: [['suggest', 'suggest'], ['that', 'that'], ['of', 'of'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['results', 'findings'], ['These', 'These'], ['gene', 'genes'], ['gene', 'genes'], ['involved', 'related'], ['mutations', 'mutational'], ['is', 'are']]
+	Sentence: These results suggest that inactivation of the APC gene by two mutations is involved in the development of moderate adenoma, and loss of heterozygosity of the APC gene is associated with further development to carcinoma.
+	Gold labels: loss of heterozygosity	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15702478.6.txt Score: 0.317 Matches: [['mutations', 'mutational'], ['increased', 'higher'], ['tumor', 'tumors'], ['suggesting', 'suggest'], ['gene', 'genes'], ['frequency', 'rates'], ['cancer', 'tumors'], ['of', 'of'], ['in', 'in'], ['of', 'of']]
+	Sentence: Moreover, the frequency of molecular p53 mutations increased as tumor stage increased, suggesting an important role for this gene in the progression of colorectal cancer.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23603433.1.txt Score: 0.314 Matches: [['types', 'rates'], ['different', 'diverse'], ['associated', 'related'], ['Specific', 'target'], ['patterns', 'type'], ['of', 'of'], ['been', 'are'], ['of', 'of']]
+	Sentence: Specific patterns of genomic aberrations have been associated with different types of malignancies.
+	Gold labels: genomic aberrations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15930278.10.txt Score: 0.310 Matches: [['target', 'target'], ['genes', 'genes'], ['indicate', 'suggest'], ['results', 'findings'], ['MSI', 'MSI'], ['tumors', 'tumors'], ['frequencies', 'rates'], ['mutation', 'mutational'], ['high', 'higher'], ['repeat', 'repeat'], ['that', 'that']]
+	Sentence: Our results indicate that high mutation frequencies, similar or higher than those observed in proposed and approved target genes, can be detected in repeat tracts of MSI tumors without any apparent selection pressure.
+	Gold labels: MSI	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9731891.14.txt Score: 0.308 Matches: [['related', 'related'], ['to', 'to'], ['the', 'the'], ['of', 'of'], ['tumors', 'tumors'], ['size', 'length'], ['mutations', 'mutational'], ['finding', 'findings'], ['tumor', 'tumors'], ['was', 'are']]
+	Sentence: In the left colon carcinoma cases, p53 mutations were detected in 41% of tumors and microsatellite instability in 14%; neither finding was related to the tumor size.
+	Gold labels: microsatellite instability	mutations
+	Manual labels:
+	Comments:
+
+Error in 47:Among the 7 tumors with mutations in these target genes , 5 responded to irinotecan , whereas only 6 of the other 65 tumors did ( P < 0 . 001 ) , indicating that MSI - driven inactivation of target genes modifies tumor chemosensitivity .
+Prediction: mutations#B inactivation#B
+Comments:
+
+	Similar sentence 0: 8187091.10.txt Score: 0.278 Matches: [['inactivation', 'inactivation'], ['of', 'of'], ['the', 'the'], ['of', 'of'], ['gene', 'genes'], ['mutations', 'mutations'], ['gene', 'genes'], ['suggest', 'indicating'], ['moderate', 'driven'], ['that', 'that']]
+	Sentence: These results suggest that inactivation of the APC gene by two mutations is involved in the development of moderate adenoma, and loss of heterozygosity of the APC gene is associated with further development to carcinoma.
+	Gold labels: loss of heterozygosity	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 14734469.10.txt Score: 0.260 Matches: [['whereas', 'whereas'], ['only', 'only'], ['of', 'of'], ['the', 'the'], ['P', 'P'], ['0', '0'], ['mutations', 'mutations'], ['cancers', 'tumors'], ['cancers', 'tumors'], ['with', 'with']]
+	Sentence: BRAF mutations were present in 13 of 15 (87%) of the colorectal cell lines and cancers with methylated hMLH1, whereas only 4 of 91 (4%) of the cell lines and cancers with unmethylated hMLH1 carried the mutations (P < 0.00001).
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 9439149.11.txt Score: 0.257 Matches: [['p', 'P'], ['0', '0'], ['001', '001'], ['of', 'of'], ['the', 'the'], ['tumors', 'tumors'], ['the', 'the'], ['revealed', 'indicating'], ['Tumors', 'tumors']]
+	Sentence: Tumors arising from the middle third (p < 0.001) or lower third (p < 0.001) revealed higher frequency of RER-positive phenotype than the tumors arising from the upper third of the stomach.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 17350669.8.txt Score: 0.253 Matches: [['of', 'of'], ['the', 'the'], ['tumors', 'tumors'], ['P', 'P'], ['001', '001'], ['MSI', 'MSI'], ['tumors', 'tumors'], ['5', '5'], ['6', '6'], ['tumors', 'tumor']]
+	Sentence: Marked (2+) FASN overexpression was observed in 110 (11%) of the 976 tumors and was significantly more common in MSI-H tumors (21% [28/135]) than MSI-low (5.6% [4/72], P = .004) and MSS tumors (11% [72/678], P = .001).
+	Gold labels: MSI
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16396368.5.txt Score: 0.250 Matches: [['among', 'Among'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['MSI', 'MSI'], ['cancers', 'tumors'], ['genetic', 'genes'], ['implies', 'indicating'], ['genetic', 'genes']]
+	Sentence: The detection of HNPCC syndrome by the genetic test among the MSI cancers implies a coordination of the structures of health and requires a follow-up of the patients, during and after the genetic test.
+	Gold labels: MSI
+	Manual labels:
+	Comments:
+
+Error in 153:The meeting also canvassed the recent exciting developments in models to evaluate the pathogenicity of unclassified variants using in silico data , tumor pathology information , and functional assays , and made further plans for the future progress and sustainability of the pilot program .
+Prediction: variants#B
+Comments:
+
+	Similar sentence 0: 7557155.4.txt Score: 0.328 Matches: [['the', 'the'], ['recent', 'recent'], ['of', 'of'], ['the', 'the'], ['developments', 'developments'], ['pathogenesis', 'pathogenicity'], ['the', 'the'], ['reviews', 'evaluate'], ['advances', 'progress'], ['cancer', 'tumor'], ['of', 'of']]
+	Sentence: This article reviews the recent developments and advances in the biology of the human DNA mismatch repair genes and their involvement in the pathogenesis of cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 22575968.3.txt Score: 0.282 Matches: [['evaluate', 'evaluate'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['using', 'using'], ['data', 'information'], ['cancers', 'tumor'], ['proposed', 'plans'], ['conducted', 'made'], ['Trial', 'assays'], ['and', 'and']]
+	Sentence: We empirically evaluate the performance of the proposed family history-based approach in studying associations with prostate and ovarian cancers, using data from GWA studies previously conducted within the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18268114.1.txt Score: 0.273 Matches: [['diseases', 'pathology'], ['cancer', 'tumor'], ['Advances', 'developments'], ['new', 'recent'], ['assessing', 'evaluate'], ['variations', 'variants'], ['of', 'of'], ['in', 'in'], ['the', 'the']]
+	Sentence: Advances in genomics offer new strategies for assessing the association of common genetic variations at multiple loci and risk of many diseases, including colorectal cancer.
+	Gold labels: variations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 20725929.6.txt Score: 0.257 Matches: [['in', 'in'], ['silico', 'silico'], ['data', 'data'], ['variants', 'variants'], ['functional', 'functional'], ['records', 'made'], ['data', 'information'], ['well', 'also'], ['test', 'evaluate']]
+	Sentence: The database includes records with variants per individual, linked to available phenotype and geographic origin data as well as records with in vitro functional and in silico test data.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 11521793.3.txt Score: 0.246 Matches: [['of', 'of'], ['the', 'the'], ['gains', 'progress'], ['The', 'the'], ['function', 'functional'], ['knowledge', 'information'], ['cancer', 'tumor'], ['and', 'and']]
+	Sentence: The tremendous gains in the knowledge of the structure and function of human genes will surely impact the diagnosis, prognosis and treatment of cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 173:Frameshift mutations of target genes in the MSI - H colorectal and gastric carcinomas are increased according to the length of the polydeoxyadenosine repeats in the target genes .
+Prediction: Frameshift#O mutations#B -#O H#O
+Comments:
+
+	Similar sentence 0: 22810479.2.txt Score: 0.333 Matches: [['of', 'of'], ['the', 'the'], ['gene', 'genes'], ['The', 'the'], ['colorectal', 'colorectal'], ['cancer', 'carcinomas'], ['mutated', 'mutations']]
+	Sentence: : The K-ras gene is one of the commonly mutated oncogenes associated with colorectal cancer.
+	Gold labels: mutated
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16396368.3.txt Score: 0.326 Matches: [['of', 'of'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['colorectal', 'colorectal'], ['MSI', 'MSI'], ['cancer', 'carcinomas']]
+	Sentence: The role of the pathologist in the detection of colorectal cancer with MSI phenotype is important.
+	Gold labels: MSI
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16426918.2.txt Score: 0.316 Matches: [['Mutations', 'mutations'], ['of', 'of'], ['genes', 'genes'], ['in', 'in'], ['carcinomas', 'carcinomas'], ['were', 'are']]
+	Sentence: Mutations of these genes in renal cell carcinomas were recently described.
+	Gold labels: Mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 11521793.3.txt Score: 0.314 Matches: [['in', 'in'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['genes', 'genes'], ['gains', 'increased'], ['cancer', 'carcinomas'], ['of', 'of']]
+	Sentence: The tremendous gains in the knowledge of the structure and function of human genes will surely impact the diagnosis, prognosis and treatment of cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 7557155.4.txt Score: 0.302 Matches: [['in', 'in'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['genes', 'genes'], ['cancer', 'carcinomas']]
+	Sentence: This article reviews the recent developments and advances in the biology of the human DNA mismatch repair genes and their involvement in the pathogenesis of cancer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 169:The p53 pathway is inactivated by TP53 inactivation in CIN tumors or by BAX inactivating mutations in MSI tumors .
+Prediction: inactivated#B inactivation#B CIN#O inactivating#B
+Comments:
+
+	Similar sentence 0: 14734469.3.txt Score: 0.308 Matches: [['mutations', 'mutations'], ['in', 'in'], ['cancer', 'tumors'], ['MSI', 'MSI'], ['cancer', 'tumors'], ['in', 'in']]
+	Sentence: BRAF mutations in sporadic colorectal cancer with microsatellite instability (MSI) are more frequently detected than those in microsatellite stable cancer.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 10822375.4.txt Score: 0.308 Matches: [['is', 'is'], ['inactivated', 'inactivated'], ['by', 'by'], ['cancer', 'tumors'], ['mutations', 'mutations'], ['in', 'in']]
+	Sentence: Here we report that in Vaco481 colon cancer the hPMS2 gene is inactivated by somatic mutations of both hPMS2 alleles.
+	Gold labels: inactivated	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 22899730.2.txt Score: 0.293 Matches: [['mutations', 'mutations'], ['in', 'in'], ['cancer', 'tumors'], ['tumors', 'tumors'], ['MSI', 'MSI'], ['in', 'in']]
+	Sentence: BRAF mutations in colorectal cancer (CRC) are disproportionately observed in tumors exhibiting microsatellite instability (MSI) and are associated with other prognostic factors.
+	Gold labels: MSI	microsatellite instability	mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 14734469.0.txt Score: 0.263 Matches: [['mutation', 'mutations'], ['cancer', 'tumors'], ['cancer', 'tumors'], ['in', 'in'], ['in', 'in']]
+	Sentence: BRAF mutation is frequently present in sporadic colorectal cancer with methylated hMLH1, but not in hereditary nonpolyposis colorectal cancer.
+	Gold labels: mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18550572.7.txt Score: 0.250 Matches: [['tumors', 'tumors'], ['p53', 'p53'], ['tract', 'pathway'], ['cancers', 'tumors']]
+	Sentence: Compared with other tumors, frequent stabilization of p53 protein characterized urinary tract cancers.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 45:Three tumors displayed a mutation in the poly - A10 tract of the transforming growth factor beta - RII gene , associated with a 1 - bp deletion in the poly - A8 tract of hMSH3 in one tumor and with a 1 - bp deletion in the poly - G8 tract of BAX in another .
+Prediction: mutation#B deletion#B deletion#B
+Comments:
+
+	Similar sentence 0: 18184403.9.txt Score: 0.304 Matches: [['in', 'in'], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['1', '1'], ['1', '1'], ['cancers', 'tumors'], ['cancers', 'tumor'], ['showed', 'displayed'], ['in', 'in'], ['in', 'in'], ['a', 'a']]
+	Sentence: The beclin-1 expression of colorectal and gastric cancers in the present study is quite in contrast to that of the breast cancers in the previous study, which showed a decreased beclin-1 expression in breast cancer cells compared to normal breast cells.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9691992.2.txt Score: 0.274 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['beta', 'beta'], ['in', 'in'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['RII', 'RII'], ['screened', 'displayed'], ['mutations', 'mutation'], ['gene', 'gene'], ['single', 'one']]
+	Sentence: These samples were also screened to search mutations in the repeat sequences in the gene for the type II receptor of transforming growth factor-beta (TGF-beta RII) using polymerase chain reaction (PCR), electrophoresis with urea gel, and PCR-single strand conformation polymorphism (PCR-SSCP) method.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 8431846.11.txt Score: 0.270 Matches: [['with', 'with'], ['a', 'a'], ['of', 'of'], ['the', 'the'], ['in', 'in'], ['the', 'the'], ['one', 'one'], ['1', '1'], ['gene', 'gene'], ['deleted', 'deletion'], ['c', 'Three'], ['cancer', 'tumors']]
+	Sentence: By Southern blot with a c-raf probe, one allele of the c-raf-1 gene, which has been mapped on chromosome 3p25, was deleted from the rearranged chromosome 3 in the peripheral lymphocytes, intact colonic mucosa, and cancer tissue.
+	Gold labels: deleted	rearranged
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9691992.0.txt Score: 0.270 Matches: [['transforming', 'transforming'], ['growth', 'growth'], ['factor', 'factor'], ['beta', 'beta'], ['in', 'in'], ['the', 'the'], ['gene', 'gene'], ['mutation', 'mutation'], ['A', 'a'], ['cancer', 'tumors']]
+	Sentence: A novel missense mutation and frameshift mutations in the type II receptor of transforming growth factor-beta gene in sporadic colon cancer with microsatellite instability.
+	Gold labels: frameshift mutations	microsatellite instability	missense mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 1299227.6.txt Score: 0.269 Matches: [['of', 'of'], ['the', 'the'], ['showed', 'displayed'], ['tumors', 'tumors'], ['one', 'one'], ['eight', 'G8'], ['in', 'in'], ['in', 'in'], ['an', 'a']]
+	Sentence: Sixty-eight percent of the tumors showed an aneuploid DNA pattern in at least one of the samples.
+	Gold labels: aneuploid
+	Manual labels:
+	Comments:
+
+Error in 37:The aim of our study was to assess the relationship between colorectal tumor responsiveness to irinotecan and microsatellite instability ( MSI ) , a feature of colorectal tumors with DNA mismatch repair defect .
+Prediction: mismatch#B repair#I defect#I
+Comments:
+
+	Similar sentence 0: 21063410.2.txt Score: 0.333 Matches: [['role', 'feature'], ['a', 'a'], ['defective', 'defect'], ['DNA', 'DNA'], ['repair', 'repair'], ['colorectal', 'colorectal'], ['cancer', 'tumor']]
+	Sentence: defective DNA repair has a causal role in hereditary colorectal cancer (CRC).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 17454882.4.txt Score: 0.333 Matches: [['study', 'study'], ['was', 'was'], ['to', 'to'], ['of', 'of'], ['our', 'our'], ['objective', 'aim'], ['The', 'The'], ['report', 'relationship']]
+	Sentence: The objective of this study was to report the results of our observations during the past 15 years.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 19276868.5.txt Score: 0.327 Matches: [['The', 'The'], ['aim', 'aim'], ['of', 'of'], ['study', 'study'], ['was', 'was'], ['to', 'to'], ['identify', 'assess'], ['cancer', 'tumor']]
+	Sentence: The aim of this study was to identify and characterize small molecules that selectively kill DPC4-deficient cancer cells.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16426918.3.txt Score: 0.321 Matches: [['The', 'The'], ['aim', 'aim'], ['of', 'of'], ['study', 'study'], ['was', 'was'], ['to', 'to'], ['examine', 'assess'], ['neoplasms', 'tumor'], ['the', 'the']]
+	Sentence: The aim of this study was to examine the expression of MLH-1 and MSH-2 in renal cortical neoplasms of various histological types by immunohistochemistry.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10822375.1.txt Score: 0.318 Matches: [['DNA', 'DNA'], ['mismatch', 'mismatch'], ['repair', 'repair'], ['MSI', 'MSI'], ['microsatellite', 'microsatellite'], ['unstable', 'instability'], ['cancers', 'tumor']]
+	Sentence: Inactivation of DNA-mismatch repair underlies the genesis of microsatellite unstable (MSI) colon cancers.
+	Gold labels: MSI	microsatellite unstable
+	Manual labels:
+	Comments:
+
+Error in 43:Among the 7 tumors that displayed a MSI - H phenotype , 4 responded to irinotecan , whereas only 7 of the 65 MSI - L / microsatellite stable tumors did ( P = 0 . 009 ) .
+Prediction: -#O H#O -#O microsatellite#B stable#I
+Comments:
+
+	Similar sentence 0: 14734469.10.txt Score: 0.261 Matches: [['whereas', 'whereas'], ['only', 'only'], ['of', 'of'], ['the', 'the'], ['P', 'P'], ['0', '0'], ['4', '4'], ['cancers', 'tumors'], ['cancers', 'tumors']]
+	Sentence: BRAF mutations were present in 13 of 15 (87%) of the colorectal cell lines and cancers with methylated hMLH1, whereas only 4 of 91 (4%) of the cell lines and cancers with unmethylated hMLH1 carried the mutations (P < 0.00001).
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9439149.11.txt Score: 0.258 Matches: [['of', 'of'], ['the', 'the'], ['p', 'P'], ['0', '0'], ['tumors', 'tumors'], ['the', 'the'], ['Tumors', 'tumors'], ['phenotype', 'phenotype']]
+	Sentence: Tumors arising from the middle third (p < 0.001) or lower third (p < 0.001) revealed higher frequency of RER-positive phenotype than the tumors arising from the upper third of the stomach.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 25374237.2.txt Score: 0.256 Matches: [['of', 'of'], ['the', 'the'], ['cancers', 'tumors'], ['cancer', 'tumors'], ['is', 'did']]
+	Sentence: Colon cancer is one of the most common cancers worldwide.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 1299227.6.txt Score: 0.255 Matches: [['of', 'of'], ['the', 'the'], ['tumors', 'tumors'], ['percent', 'P'], ['showed', 'displayed'], ['an', 'a']]
+	Sentence: Sixty-eight percent of the tumors showed an aneuploid DNA pattern in at least one of the samples.
+	Gold labels: aneuploid
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 17350669.8.txt Score: 0.254 Matches: [['MSI', 'MSI'], ['H', 'H'], ['of', 'of'], ['the', 'the'], ['MSI', 'MSI'], ['tumors', 'tumors'], ['tumors', 'tumors'], ['4', '4'], ['P', 'P']]
+	Sentence: Marked (2+) FASN overexpression was observed in 110 (11%) of the 976 tumors and was significantly more common in MSI-H tumors (21% [28/135]) than MSI-low (5.6% [4/72], P = .004) and MSS tumors (11% [72/678], P = .001).
+	Gold labels: MSI
+	Manual labels:
+	Comments:
+
+Error in 171:Frameshift mutation at coding mononucleotide repeat sequences are common in tumors with microsatellite instability ( MSI - H ) , but the incidences are different among the target genes .
+Prediction: Frameshift#O mutation#B -#O H#O
+Comments:
+
+	Similar sentence 0: 15930278.3.txt Score: 0.356 Matches: [['target', 'target'], ['genes', 'genes'], ['several', 'different'], ['MSI', 'MSI'], ['mutation', 'mutation'], ['frequency', 'incidences'], ['within', 'among'], ['coding', 'coding']]
+	Sentence: To date, several putative MSI target genes have been proposed mainly based on high mutation frequency within their coding regions.
+	Gold labels: MSI	mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9731891.10.txt Score: 0.350 Matches: [['tumors', 'tumors'], ['with', 'with'], ['gene', 'genes'], ['the', 'the'], ['cases', 'incidences'], ['the', 'the'], ['mutations', 'mutation']]
+	Sentence: In the 125 cases studied, there were 53 tumors with mutations of the p53 gene.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 23132392.6.txt Score: 0.341 Matches: [['frequency', 'incidences'], ['The', 'the'], ['mutations', 'mutation'], ['sequencing', 'sequences'], ['tumours', 'tumors'], ['direct', 'target'], ['in', 'in']]
+	Sentence: The frequency of MED12 exon 2 mutations was analysed in altogether 1158 tumours by direct sequencing.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9691992.0.txt Score: 0.320 Matches: [['with', 'with'], ['microsatellite', 'microsatellite'], ['instability', 'instability'], ['frameshift', 'Frameshift'], ['mutations', 'mutation'], ['cancer', 'tumors'], ['gene', 'genes'], ['in', 'in']]
+	Sentence: A novel missense mutation and frameshift mutations in the type II receptor of transforming growth factor-beta gene in sporadic colon cancer with microsatellite instability.
+	Gold labels: frameshift mutations	microsatellite instability	missense mutation
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 15930278.0.txt Score: 0.316 Matches: [['microsatellite', 'microsatellite'], ['mononucleotide', 'mononucleotide'], ['repeats', 'repeat'], ['unstable', 'instability'], ['cancers', 'tumors'], ['Mutations', 'mutation']]
+	Sentence: Mutations in two short noncoding mononucleotide repeats in most microsatellite-unstable colorectal cancers.
+	Gold labels: Mutations	microsatellite-unstable
+	Manual labels:
+	Comments:
+
+Error in 5:Some of these expression polymorphisms appeared to be specific for tumor cells of the MMP because they were present in two or more different MMP + cell lines but absent in all MMP - cell lines analyzed .
+Prediction: polymorphisms#B
+Comments:
+
+	Similar sentence 0: 12500293.13.txt Score: 0.400 Matches: [['two', 'two'], ['or', 'or'], ['more', 'more'], ['different', 'different'], ['of', 'of'], ['the', 'the'], ['were', 'were'], ['present', 'present'], ['showed', 'appeared'], ['tumor', 'tumor'], ['cell', 'cells'], ['cell', 'cell'], ['analysis', 'analyzed'], ['in', 'in']]
+	Sentence: The simultaneous analysis of the number of copies of both chromosomes in the same cell showed that, in most cases displaying numerical abnormalities for these chromosomes, two or more different tumor cell clones were present.
+	Gold labels: numerical abnormalities
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18097606.0.txt Score: 0.320 Matches: [['of', 'of'], ['the', 'the'], ['cell', 'cell'], ['lines', 'lines'], ['cancer', 'tumor'], ['expression', 'expression'], ['2', 'two'], ['in', 'in']]
+	Sentence: Transcriptional regulation of the COX-2 expression by nitric oxide in colon cancer cell lines.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 1916131.2.txt Score: 0.305 Matches: [['of', 'of'], ['the', 'the'], ['to', 'to'], ['be', 'be'], ['present', 'present'], ['in', 'in'], ['shown', 'appeared'], ['examined', 'analyzed'], ['was', 'were']]
+	Sentence: Although mutations of the p53 gene have been shown to be frequent, the protein was present in only approximately 50 percent of specimens examined.
+	Gold labels: mutations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 19276868.8.txt Score: 0.291 Matches: [['cell', 'cell'], ['lines', 'lines'], ['cells', 'cells'], ['cancer', 'tumor'], ['different', 'different'], ['cellular', 'cell'], ['assays', 'analyzed'], ['in', 'in']]
+	Sentence: Selected hits were further verified in additional isogenic cell lines and characterized in cancer cells using several different cellular assays.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 26446363.6.txt Score: 0.286 Matches: [['of', 'of'], ['the', 'the'], ['in', 'in'], ['all', 'all'], ['tumors', 'tumor'], ['double', 'lines'], ['individuals', 'different'], ['expression', 'expression']]
+	Sentence: Five tumors of the eight double-mutant individuals had normal MSH2 expression, whereas MSH6 immunoexpression was lost in all evaluable cases.
+	Gold labels: 
+	Manual labels:
+	Comments:
+

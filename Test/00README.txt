@@ -1,0 +1,28 @@
+- test.pl: BioBERT (DLaaS) mutation test experiments (Exper 1-3)
+- Exper4.pl: blstm_residual on mutation (adjudicated->test1)
+- Exper5.pl: blstm_residual on mutation (adjudicated->test2)
+- Exper6.pl: blstm_residual on mutation (pre-adjudicated->test1)
+- Exper7.pl: blstm_residual on mutation (pre-adjudicated->test2)
+- Exper8.pl: blstm_residual on mutation (adjudicated->test1) with embeddings. Table 3 in the paper.
+- Exper9.pl: blstm_residual on mutation (adjudicated->test2) with embeddings. Table 1 in paper.
+- Exper10.pl: blstm_residual on mutation (pre-adjudicated->test1) with embeddings. Table 3 in paper.
+- Exper11.pl: blstm_residual on mutation (pre-adjudicated->test2) with embeddings. Table 2 in paper.
+- Exper12.pl: blstm_residual on mutation (automatically-changed->test2) with embeddings
+- Exper13.pl: BioBERT, train on pre-adjudicated test on test-2
+- Exper14.pl: BioBERT, train on adjudicated, test on test-2
+- Exper15.pl: BioBERT, train on pre-adjudicated, test on test-1
+- Exper16.pl: BioBERT, train on automatically fixed errors, test on test-2
+- Exper17.pl: bilstm, train on development set, test on train
+- Exper18.pl: BioBERT, train on development set (devel=test1), test on train
+
+- Exper19.pl: BioBERT, train on automatically fixed errors (with bilstm-ists), test on test-2
+- Exper20.pl: BioBERT, train on randomly fixed errors, test on test-2. Results for Table 7 in the paper.
+- Exper21.pl: BioBERT, train on automatically fixed errors (bilstm confidence), test on test-2 with BioBERT
+- Exper22.pl: Same as Exper21 with multi-run. Results for Table 7 in the paper.
+- Exper23.pl: Same as Exper19 with multi-run. Results for Table 7 in the paper.
+- Exper24.pl: Same as Exper14 with multi-run (no changes, adjudicated, test on test-2). Table1 in paper.
+- Exper25.pl: Same as Exper13 with multi-run (no changes, pre-adjudicated, test on test-2). Table2 in paper.
+- Exper26.pl: Same as Exper15 with multi-run (no changes, test on test-1). Table 3 in paper.
+- Exper27.pl: BioBERT, train on adjudicated, test on test-1. Table 3 in the paper.
+
+- run_dlaas.pl: run dlaas for yaml specified in Preproc
