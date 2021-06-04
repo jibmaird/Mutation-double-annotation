@@ -16,12 +16,15 @@ data_d = "/Users/david/Projects/Data/Experiments/Mutation/"
 #run = "python create_splits.py "+data_d+"1"
 #os.system(run)
 
+d_splits = data_d + "/1/splits"
 for exp in range(1,3):
     d1 = data_d + "/"+str(exp)
-    d2 = data_d + "/1/splits"
-    run = "python create_tsv_files.py "+d1+" "+d2
+    run = "python create_tsv_files.py "+d1+" "+d_splits
+    #os.system(run)
+    run = "python single_class.py "+d1+"/conll"
     os.system(run)
-    
-#system("./single_class.pl $data_d/conll");
+    run = "python simple_BIO.py "+d1
+    os.system(run)
+
 #system("./create_3_files.pl $data_d"); #for residual-lstm
-#system("./simple_BIO.pl $data_d");
+
